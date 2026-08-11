@@ -1,0 +1,19 @@
+{
+  "name": "brian-perry-resume",
+  "version": "1.0.0",
+  "description": "Public security-advisor resume and evidence portfolio",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate-resume.mjs",
+    "build": "node scripts/build-resumes.mjs"
+  },
+  "keywords": [],
+  "author": "Brian Perry",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@jsonresume/schema": "^1.3.1",
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1"
+  }
+}

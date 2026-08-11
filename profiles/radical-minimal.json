@@ -1,0 +1,21 @@
+{
+  "name": "radical-minimal",
+  "headline": "Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security",
+  "minimalSummary": "Cybersecurity advisor and security architect focused on threat management, cloud and enterprise security, security automation, and critical infrastructure.",
+  "focusLine": "Threat & vulnerability management | App & supply-chain security | Cloud, critical infrastructure & OT | Security automation & AI workflows",
+  "selectedEmployers": [
+    "VCE (acquired by Dell EMC)"
+  ],
+  "selectedSkillGroups": [
+    "Threat and Vulnerability Management",
+    "Application and Supply-Chain Security",
+    "Cloud, Infrastructure, and OT Security",
+    "Security Automation and AI Workflows"
+  ],
+  "selectedProjectIds": [
+    "security-automation",
+    "cloud-devsecops",
+    "ai-agent-workflows"
+  ],
+  "portfolioUrl": "https://github.com/bp3rry/brian-perry-resume"
+}

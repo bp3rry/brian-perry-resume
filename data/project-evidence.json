@@ -1,0 +1,54 @@
+[
+  {
+    "id": "security-automation",
+    "title": "Security Engineering Automation",
+    "status": "public-summary-ready",
+    "capabilities": [
+      "SAST",
+      "SCA",
+      "DAST",
+      "SBOM",
+      "Dependency scanning",
+      "Container scanning",
+      "Vulnerability management",
+      "Threat modeling"
+    ],
+    "summary": "Recent hands-on engineering work spanning vulnerability-management workflows, threat modeling, security review, and security automation.",
+    "evidence": [],
+    "card": "projects/security-engineering-automation.md"
+  },
+  {
+    "id": "cloud-devsecops",
+    "title": "Cloud and DevSecOps Engineering",
+    "status": "public-summary-ready",
+    "capabilities": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Infrastructure as code",
+      "GitHub Actions",
+      "Jenkins"
+    ],
+    "summary": "Recent implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and security-scanning practices.",
+    "evidence": [],
+    "card": "projects/cloud-devsecops-engineering.md"
+  },
+  {
+    "id": "ai-agent-workflows",
+    "title": "AI-Agent and LLM Workflows",
+    "status": "public-summary-ready",
+    "capabilities": [
+      "GitHub Copilot",
+      "OpenAI",
+      "Claude",
+      "LangChain",
+      "Prompt engineering",
+      "AI-agent orchestration"
+    ],
+    "summary": "Recent work designing and implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.",
+    "evidence": [],
+    "card": "projects/ai-agent-workflows.md"
+  }
+]

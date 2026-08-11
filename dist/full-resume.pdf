@@ -1,0 +1,100 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3783 >>
+stream
+BT /F2 18 Tf 54 738 Td (Brian Perry) Tj ET
+BT /F1 10 Tf 54 711 Td (Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security) Tj ET
+BT /F1 10 Tf 54 696 Td (HazzardUS@pm.me | +1 972 836 9981 | https://github.com/bp3rry/brian-perry-resume) Tj ET
+BT /F2 11 Tf 54 663 Td (SUMMARY) Tj ET
+BT /F1 10 Tf 54 641 Td (Senior security architect and advisor with security architecture, consulting, managed) Tj ET
+BT /F1 10 Tf 54 627 Td (security services, and technical sales-support experience. Current hands-on work spans) Tj ET
+BT /F1 10 Tf 54 613 Td (security automation, application and software supply-chain security, cloud and) Tj ET
+BT /F1 10 Tf 54 599 Td (infrastructure security, and AI-agent workflows.) Tj ET
+BT /F2 11 Tf 54 566 Td (EXPERIENCE) Tj ET
+BT /F2 10 Tf 54 544 Td (VCE \(acquired by Dell EMC\)) Tj /F1 10 Tf ( | Senior Security Architect, Security Consultant, Product Manager) Tj ET
+BT /F1 10 Tf 54 530 Td (| 2011-07-Present) Tj ET
+BT /F1 10 Tf 54 515 Td (- Contributed to product design, architecture, security features, and lifecycle support.) Tj ET
+BT /F1 10 Tf 54 500 Td (- Provided pre-sales and technical sales support for Vblock systems and solutions.) Tj ET
+BT /F2 10 Tf 54 485 Td (Cloud Security Alliance - DFW Chapter) Tj /F1 10 Tf ( | Founder | 2011-06-2015-12) Tj ET
+BT /F1 10 Tf 54 470 Td (- Founded the chapter under the CSA charter and led cloud-security research and discussion.) Tj ET
+BT /F1 10 Tf 54 455 Td (- Hosted chapter cloud infrastructure and managed finances, meetings, communications, and) Tj ET
+BT /F1 10 Tf 54 441 Td (fundraising.) Tj ET
+BT /F2 10 Tf 54 426 Td (Anthelio Healthcare Solutions \(formerly PHNS\)) Tj /F1 10 Tf ( | Senior Director of Information Security,) Tj ET
+BT /F1 10 Tf 54 412 Td (Global Information Security Officer, Practice Manager - Managed Security Services |) Tj ET
+BT /F1 10 Tf 54 398 Td (2002-10-2011-07) Tj ET
+BT /F1 10 Tf 54 383 Td (- Managed Managed Security Services with P&L responsibility of $2.5M.) Tj ET
+BT /F2 10 Tf 54 368 Td (Citadel Security) Tj /F1 10 Tf ( | Senior Security Engineer, Vulnerability/Remediation Researcher |) Tj ET
+BT /F1 10 Tf 54 354 Td (2002-05-2002-10) Tj ET
+BT /F1 10 Tf 54 339 Td (- Delivered pre- and post-sales implementation, technical engineering, and support for an) Tj ET
+BT /F1 10 Tf 54 325 Td (automated vulnerability-remediation solution.) Tj ET
+BT /F2 10 Tf 54 310 Td (netForensics) Tj /F1 10 Tf ( | Senior Security Engineer, Regional Manager | 2001-10-2002-05) Tj ET
+BT /F1 10 Tf 54 295 Td (- Delivered pre- and post-sales implementation, technical engineering, and support for SIEM) Tj ET
+BT /F1 10 Tf 54 281 Td (solutions.) Tj ET
+BT /F2 10 Tf 54 266 Td (Affiliated Computer Services) Tj /F1 10 Tf ( | Field Services Engineer and Delivery Manager |) Tj ET
+BT /F1 10 Tf 54 252 Td (1995-12-2001-10) Tj ET
+BT /F1 10 Tf 54 237 Td (- Provided security consulting, intrusion detection, incident response, and service-delivery) Tj ET
+BT /F1 10 Tf 54 223 Td (support.) Tj ET
+BT /F2 11 Tf 54 190 Td (SKILLS) Tj ET
+BT /F1 10 Tf 54 168 Td (Threat and Vulnerability Management: Vulnerability assessment and remediation, Attack) Tj ET
+BT /F1 10 Tf 54 154 Td (surface management, CVE management, Threat modeling, Incident response, SIEM, XDR/EDR) Tj ET
+BT /F1 10 Tf 54 139 Td (Application and Supply-Chain Security: SAST, SCA, DAST, SBOM/SPDX, Dependency scanning,) Tj ET
+BT /F1 10 Tf 54 125 Td (Container scanning, OWASP) Tj ET
+BT /F1 10 Tf 54 110 Td (Cloud, Infrastructure, and OT Security: AWS, Azure, GCP, Docker, Kubernetes,) Tj ET
+BT /F1 10 Tf 54 96 Td (Infrastructure as code, Critical-facilities risk assessment, OT/SCADA security assessment) Tj ET
+BT /F1 10 Tf 54 81 Td (Security Automation and AI Workflows: Python, Go, TypeScript, GitHub Actions, CI/CD,) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1239 >>
+stream
+BT /F1 10 Tf 54 738 Td (AI-agent design and orchestration, LLMs, LangChain) Tj ET
+BT /F2 11 Tf 54 705 Td (CERTIFICATES) Tj ET
+BT /F1 10 Tf 54 683 Td (- Certificate of Cloud Security Knowledge \(CCSK\) | Cloud Security Alliance) Tj ET
+BT /F2 11 Tf 54 650 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
+BT /F1 10 Tf 54 628 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
+BT /F1 10 Tf 54 613 Td (- First Class Limited Stationary Engineer) Tj ET
+BT /F2 11 Tf 54 580 Td (PROJECT EVIDENCE) Tj ET
+BT /F1 10 Tf 54 558 Td (- Security Engineering Automation: Recent) Tj ET
+BT /F1 10 Tf 54 544 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
+BT /F1 10 Tf 54 530 Td (security review, and security automation.) Tj ET
+BT /F1 10 Tf 54 515 Td (- Cloud and DevSecOps Engineering: Recent) Tj ET
+BT /F1 10 Tf 54 501 Td (implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and) Tj ET
+BT /F1 10 Tf 54 487 Td (security-scanning practices.) Tj ET
+BT /F1 10 Tf 54 472 Td (- AI-Agent and LLM Workflows: Recent work designing and) Tj ET
+BT /F1 10 Tf 54 458 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000004237 00000 n 
+0000004373 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5664
+%%EOF

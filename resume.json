@@ -1,0 +1,139 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "basics": {
+    "name": "Brian Perry",
+    "label": "Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security",
+    "email": "HazzardUS@pm.me",
+    "phone": "+1 972 836 9981",
+    "url": "https://github.com/bp3rry/brian-perry-resume",
+    "summary": "Senior security architect and advisor with security architecture, consulting, managed security services, and technical sales-support experience. Current hands-on work spans security automation, application and software supply-chain security, cloud and infrastructure security, and AI-agent workflows.",
+    "location": {
+      "region": "Texas",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "brian-perry",
+        "url": "https://www.linkedin.com/in/brian-perry"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "VCE (acquired by Dell EMC)",
+      "position": "Senior Security Architect, Security Consultant, Product Manager",
+      "startDate": "2011-07",
+      "highlights": [
+        "Contributed to product design, architecture, security features, and lifecycle support.",
+        "Provided pre-sales and technical sales support for Vblock systems and solutions."
+      ]
+    },
+    {
+      "name": "Cloud Security Alliance - DFW Chapter",
+      "position": "Founder",
+      "startDate": "2011-06",
+      "endDate": "2015-12",
+      "highlights": [
+        "Founded the chapter under the CSA charter and led cloud-security research and discussion.",
+        "Hosted chapter cloud infrastructure and managed finances, meetings, communications, and fundraising."
+      ]
+    },
+    {
+      "name": "Anthelio Healthcare Solutions (formerly PHNS)",
+      "position": "Senior Director of Information Security, Global Information Security Officer, Practice Manager - Managed Security Services",
+      "startDate": "2002-10",
+      "endDate": "2011-07",
+      "highlights": [
+        "Managed Managed Security Services with P&L responsibility of $2.5M."
+      ]
+    },
+    {
+      "name": "Citadel Security",
+      "position": "Senior Security Engineer, Vulnerability/Remediation Researcher",
+      "startDate": "2002-05",
+      "endDate": "2002-10",
+      "highlights": [
+        "Delivered pre- and post-sales implementation, technical engineering, and support for an automated vulnerability-remediation solution."
+      ]
+    },
+    {
+      "name": "netForensics",
+      "position": "Senior Security Engineer, Regional Manager",
+      "startDate": "2001-10",
+      "endDate": "2002-05",
+      "highlights": [
+        "Delivered pre- and post-sales implementation, technical engineering, and support for SIEM solutions."
+      ]
+    },
+    {
+      "name": "Affiliated Computer Services",
+      "position": "Field Services Engineer and Delivery Manager",
+      "startDate": "1995-12",
+      "endDate": "2001-10",
+      "highlights": [
+        "Provided security consulting, intrusion detection, incident response, and service-delivery support."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate of Cloud Security Knowledge (CCSK)",
+      "issuer": "Cloud Security Alliance",
+      "date": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Threat and Vulnerability Management",
+      "keywords": [
+        "Vulnerability assessment and remediation",
+        "Attack surface management",
+        "CVE management",
+        "Threat modeling",
+        "Incident response",
+        "SIEM",
+        "XDR/EDR"
+      ]
+    },
+    {
+      "name": "Application and Supply-Chain Security",
+      "keywords": [
+        "SAST",
+        "SCA",
+        "DAST",
+        "SBOM/SPDX",
+        "Dependency scanning",
+        "Container scanning",
+        "OWASP"
+      ]
+    },
+    {
+      "name": "Cloud, Infrastructure, and OT Security",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Infrastructure as code",
+        "Critical-facilities risk assessment",
+        "OT/SCADA security assessment"
+      ]
+    },
+    {
+      "name": "Security Automation and AI Workflows",
+      "keywords": [
+        "Python",
+        "Go",
+        "TypeScript",
+        "GitHub Actions",
+        "CI/CD",
+        "AI-agent design and orchestration",
+        "LLMs",
+        "LangChain"
+      ]
+    }
+  ],
+  "projects": []
+}
