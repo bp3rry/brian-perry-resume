@@ -2,8 +2,8 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const root = new URL("../", import.meta.url);
 const outputFiles = [
-  ["dist/radical-minimal.md", "dist/micro-resume.html", "dist/micro-resume.pdf"],
-  ["dist/full-resume.md", "dist/full-resume.html", "dist/full-resume.pdf"]
+  ["dist/brian.perry.resume.brief.md", "dist/brian.perry.resume.brief.html", "dist/brian.perry.resume.brief.pdf"],
+  ["dist/brian.perry.resume.full.md", "dist/brian.perry.resume.full.html", "dist/brian.perry.resume.full.pdf"]
 ];
 
 function parseMarkdown(markdown) {

@@ -89,7 +89,7 @@ function renderFull() {
 
 await mkdir(new URL("dist/", root), { recursive: true });
 await Promise.all([
-  writeFile(new URL("dist/radical-minimal.md", root), `${renderMinimal()}\n`),
-  writeFile(new URL("dist/full-resume.md", root), `${renderFull()}\n`)
+  writeFile(new URL("dist/brian.perry.resume.brief.md", root), `${renderMinimal()}\n`),
+  writeFile(new URL("dist/brian.perry.resume.full.md", root), `${renderFull()}\n`)
 ]);
 console.log("Generated Markdown resume drafts.");

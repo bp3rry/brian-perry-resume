@@ -4,8 +4,8 @@
 
 This repository begins as a v0.1 baseline. Its two editorial masters are:
 
-- `dist/radical-minimal.md`: Version 1, the micro-resume.
-- `dist/full-resume.md`: Version 2, the full resume.
+- `dist/brian.perry.resume.brief.md`: Version 1, the micro-resume.
+- `dist/brian.perry.resume.full.md`: Version 2, the full resume.
 
 These Markdown files are the working documents for reaching the job-search
 release. Edit them directly for wording, ordering, inclusion, and formatting.

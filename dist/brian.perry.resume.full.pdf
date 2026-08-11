@@ -63,14 +63,14 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 1378 >>
+<< /Length 1377 >>
 stream
 BT /F1 10 Tf 54 738 Td (AI-agent design and orchestration, LLMs, LangChain) Tj ET
 BT /F2 11 Tf 54 705 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
 BT /F1 10 Tf 54 683 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
 BT /F1 10 Tf 54 668 Td (- Class 1 Stationary Engineer - Houston Community College - BOMA/BOMI program,) Tj ET
 BT /F1 10 Tf 54 653 Td (includes HVAC, mechanical, electrical engineering, plant operation, critical infrastructure,) Tj ET
-BT /F1 10 Tf 54 639 Td (security, safety skills training. ) Tj ET
+BT /F1 10 Tf 54 639 Td (security, safety skills training.) Tj ET
 BT /F2 11 Tf 54 606 Td (PROJECT EVIDENCE) Tj ET
 BT /F1 10 Tf 54 584 Td (- Security Engineering Automation: Recent) Tj ET
 BT /F1 10 Tf 54 570 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
@@ -97,5 +97,5 @@ xref
 trailer
 << /Size 9 /Root 1 0 R >>
 startxref
-5803
+5802
 %%EOF

@@ -10,9 +10,9 @@
   directly to JSON Resume certificate fields.
 - `projects/`: Human-readable project cards, one Markdown file per public project.
 - `scripts/`: Resume validation and rendering commands.
-- `dist/`: Published resume files. `full-resume.md` and
-  `radical-minimal.md` are the editorial masters; HTML and PDF files render
-  from them.
+- `dist/`: Published resume files. `brian.perry.resume.full.md` and
+  `brian.perry.resume.brief.md` are the editorial masters; HTML and PDF files
+  render from them.
 
 ## Project Evidence
 
