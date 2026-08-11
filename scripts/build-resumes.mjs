@@ -94,5 +94,4 @@ await Promise.all([
   writeFile(new URL("dist/radical-minimal.md", root), `${renderMinimal()}\n`),
   writeFile(new URL("dist/full-resume.md", root), `${renderFull()}\n`)
 ]);
-await import("./render-resumes.mjs");
-console.log("Generated Markdown, HTML, and PDF resume files.");
+console.log("Generated Markdown resume drafts.");

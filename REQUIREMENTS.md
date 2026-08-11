@@ -10,8 +10,9 @@
   directly to JSON Resume certificate fields.
 - `projects/`: Human-readable project cards, one Markdown file per public project.
 - `scripts/`: Resume validation and rendering commands.
-- `dist/`: Generated and published Markdown, HTML, and PDF resumes. Update
-  these files only through `npm run build`.
+- `dist/`: Published resume files. `full-resume.md` and
+  `radical-minimal.md` are the editorial masters; HTML and PDF files render
+  from them.
 
 ## Project Evidence
 
@@ -26,8 +27,12 @@ npm run validate
 npm run build
 ```
 
-HTML and PDF are rendered directly from the generated Markdown with native
-Node.js scripts. No third-party rendering or PDF-processing package is used.
+`npm run build` (or `npm run render`) updates HTML and PDF from the editorial
+Markdown. `npm run generate` recreates the Markdown drafts from the structured
+data and will overwrite editorial revisions.
+
+HTML and PDF render directly from Markdown with native Node.js scripts. No
+third-party rendering or PDF-processing package is used.
 
 ## Publication Rules
 

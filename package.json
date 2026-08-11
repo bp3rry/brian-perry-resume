@@ -1,11 +1,13 @@
 {
   "name": "brian-perry-resume",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Public security-advisor resume and evidence portfolio",
   "private": true,
   "scripts": {
     "validate": "node scripts/validate-resume.mjs",
-    "build": "node scripts/build-resumes.mjs"
+    "build": "node scripts/render-resumes.mjs",
+    "generate": "node scripts/build-resumes.mjs",
+    "render": "node scripts/render-resumes.mjs"
   },
   "keywords": [],
   "author": "Brian Perry",
