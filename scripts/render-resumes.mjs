@@ -5,6 +5,7 @@ const outputFiles = [
   ["dist/brian.perry.resume.brief.md", "dist/brian.perry.resume.brief.html", "dist/brian.perry.resume.brief.pdf"],
   ["dist/brian.perry.resume.full.md", "dist/brian.perry.resume.full.html", "dist/brian.perry.resume.full.pdf"]
 ];
+const repositoryUrl = "https://github.com/bp3rry/brian-perry-resume/blob/master/dist/";
 
 function parseMarkdown(markdown) {
   return markdown.replace(/\r\n/g, "\n").split("\n").filter(Boolean).map((line) => {
@@ -77,6 +78,11 @@ function pdfText(text) {
     .replace(/[\\()]/g, "\\$&");
 }
 
+function pdfLink(text) {
+  const match = text.match(/\[[^\]]+\]\(([^)\s]+)\)/);
+  return match ? new URL(match[1], repositoryUrl).href : null;
+}
+
 function wrap(text, width) {
   const words = text.split(/\s+/);
   const lines = [];
@@ -100,24 +106,32 @@ function wrap(text, width) {
 }
 
 function renderPdf(blocks) {
-  const pages = [[]];
+  const pages = [{ commands: [], annotations: [] }];
   let y = 738;
 
   function line(text, font, size, leading) {
     if (y - leading < 54) {
-      pages.push([]);
+      pages.push({ commands: [], annotations: [] });
       y = 738;
     }
-    pages.at(-1).push(`BT /${font} ${size} Tf 54 ${y} Td (${pdfText(text)}) Tj ET`);
+    const page = pages.at(-1);
+    page.commands.push(`BT /${font} ${size} Tf 54 ${y} Td (${pdfText(text)}) Tj ET`);
+    const url = pdfLink(text);
+    if (url) {
+      page.annotations.push({
+        url,
+        rect: [54, y - 2, Math.min(558, 54 + pdfText(text).length * size * 0.52), y + size]
+      });
+    }
     y -= leading;
   }
 
   function employerLine(name, remainder, size, leading) {
     if (y - leading < 54) {
-      pages.push([]);
+      pages.push({ commands: [], annotations: [] });
       y = 738;
     }
-    pages.at(-1).push(
+    pages.at(-1).commands.push(
       `BT /F2 ${size} Tf 54 ${y} Td (${pdfText(name)}) Tj /F1 ${size} Tf (${pdfText(remainder)}) Tj ET`
     );
     y -= leading;
@@ -127,7 +141,7 @@ function renderPdf(blocks) {
     const isTitle = type === "title";
     const isHeading = type === "heading";
     const isItem = type === "item";
-    if (isHeading && pages.at(-1).length > 0) y -= 18;
+    if (isHeading && pages.at(-1).commands.length > 0) y -= 18;
     const size = isTitle ? 18 : isHeading ? 11 : 10;
     const leading = isTitle ? 24 : isHeading ? 18 : 14;
     const font = isTitle || isHeading ? "F2" : "F1";
@@ -160,10 +174,17 @@ function renderPdf(blocks) {
   for (const page of pages) {
     const pageNumber = objects.length + 1;
     const contentNumber = pageNumber + 1;
+    const annotationNumbers = page.annotations.map((_, index) => contentNumber + index + 1);
     pageObjectNumbers.push(pageNumber);
-    objects.push(`<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents ${contentNumber} 0 R >>`);
-    const stream = page.join("\n");
+    const annotations = annotationNumbers.length
+      ? ` /Annots [${annotationNumbers.map((number) => `${number} 0 R`).join(" ")}]`
+      : "";
+    objects.push(`<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents ${contentNumber} 0 R${annotations} >>`);
+    const stream = page.commands.join("\n");
     objects.push(`<< /Length ${Buffer.byteLength(stream, "ascii")} >>\nstream\n${stream}\nendstream`);
+    for (const annotation of page.annotations) {
+      objects.push(`<< /Type /Annot /Subtype /Link /Rect [${annotation.rect.join(" ")}] /Border [0 0 0] /A << /S /URI /URI (${pdfText(annotation.url)}) >> >>`);
+    }
   }
   objects[1] = `<< /Type /Pages /Kids [${pageObjectNumbers.map((number) => `${number} 0 R`).join(" ")}] /Count ${pages.length} >>`;
 
@@ -174,9 +195,9 @@ function renderPdf(blocks) {
     pdf += `${index + 1} 0 obj\n${object}\nendobj\n`;
   });
   const xref = Buffer.byteLength(pdf, "ascii");
-  pdf += `xref\n0 ${objects.length + 1}\n0000000000 65535 f \n`;
+  pdf += `xref\n0 ${objects.length + 1}\n0000000000 65535 f\n`;
   for (let index = 1; index < offsets.length; index += 1) {
-    pdf += `${String(offsets[index]).padStart(10, "0")} 00000 n \n`;
+    pdf += `${String(offsets[index]).padStart(10, "0")} 00000 n\n`;
   }
   pdf += `trailer\n<< /Size ${objects.length + 1} /Root 1 0 R >>\nstartxref\n${xref}\n%%EOF\n`;
   return Buffer.from(pdf, "ascii");

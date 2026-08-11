@@ -60,7 +60,7 @@ BT /F1 10 Tf 54 81 Td (Security Automation and AI Workflows: Python, Go, TypeScr
 endstream
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R /Annots [9 0 R 10 0 R 11 0 R 12 0 R] >>
 endobj
 8 0 obj
 << /Length 1377 >>
@@ -83,19 +83,35 @@ BT /F1 10 Tf 54 484 Td (implementing AI-agent, LLM, prompt-engineering, and agen
 BT /F1 10 Tf 54 469 Td (Technology and tools: tech-tools) Tj ET
 endstream
 endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [54 582 267.20000000000005 594] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/security-engineering-automation.md) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [54 539 267.20000000000005 551] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/cloud-devsecops-engineering.md) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [54 496 340 508] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [54 467 220.4 479] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
+endobj
 xref
-0 9
-0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000121 00000 n 
-0000000191 00000 n 
-0000000266 00000 n 
-0000000402 00000 n 
-0000004237 00000 n 
-0000004373 00000 n 
+0 13
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000121 00000 n
+0000000191 00000 n
+0000000266 00000 n
+0000000402 00000 n
+0000004237 00000 n
+0000004410 00000 n
+0000005839 00000 n
+0000006067 00000 n
+0000006292 00000 n
+0000006493 00000 n
 trailer
-<< /Size 9 /Root 1 0 R >>
+<< /Size 13 /Root 1 0 R >>
 startxref
-5802
+6685
 %%EOF
