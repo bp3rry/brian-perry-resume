@@ -15,7 +15,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2273 >>
+<< /Length 2337 >>
 stream
 BT /F2 18 Tf 54 738 Td (Brian Perry) Tj ET
 BT /F1 10 Tf 54 711 Td (Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security) Tj ET
@@ -42,7 +42,8 @@ BT /F1 10 Tf 54 318 Td (implementing AI-agent, LLM, prompt-engineering, and agen
 BT /F2 11 Tf 54 285 Td (QUALIFICATIONS) Tj ET
 BT /F1 10 Tf 54 263 Td (Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance | First Class) Tj ET
 BT /F1 10 Tf 54 249 Td (Limited Stationary Engineer) Tj ET
-BT /F1 10 Tf 54 234 Td (Full evidence portfolio: https://github.com/bp3rry/brian-perry-resume) Tj ET
+BT /F1 10 Tf 54 234 Td (Technology and tools: tech-tools) Tj ET
+BT /F1 10 Tf 54 219 Td (Full evidence portfolio: https://github.com/bp3rry/brian-perry-resume) Tj ET
 endstream
 endobj
 xref
@@ -57,5 +58,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-2721
+2785
 %%EOF

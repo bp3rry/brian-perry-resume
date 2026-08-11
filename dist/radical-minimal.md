@@ -21,4 +21,6 @@ Threat & vulnerability management | App & supply-chain security | Cloud, critica
 ## QUALIFICATIONS
 Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance | First Class Limited Stationary Engineer
 
+Technology and tools: [tech-tools](../tech-tools/index.html)
+
 Full evidence portfolio: https://github.com/bp3rry/brian-perry-resume
