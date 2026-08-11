@@ -15,7 +15,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R] >>
 endobj
 6 0 obj
-<< /Length 2337 >>
+<< /Length 2501 >>
 stream
 BT /F2 18 Tf 54 738 Td (Brian Perry) Tj ET
 BT /F1 10 Tf 54 711 Td (Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security) Tj ET
@@ -32,31 +32,35 @@ BT /F1 10 Tf 54 488 Td (- Contributed to product design, architecture, security 
 BT /F1 10 Tf 54 473 Td (- Provided pre-sales and technical sales support for Vblock systems and solutions.) Tj ET
 BT /F2 11 Tf 54 440 Td (PROJECT EVIDENCE) Tj ET
 BT /F1 10 Tf 54 418 Td (- Security Engineering Automation: Recent) Tj ET
+0.5 w 64.4 417 m 225.60000000000002 417 l S
 BT /F1 10 Tf 54 404 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
 BT /F1 10 Tf 54 390 Td (security review, and security automation.) Tj ET
 BT /F1 10 Tf 54 375 Td (- Cloud and DevSecOps Engineering: Recent) Tj ET
+0.5 w 64.4 374 m 225.60000000000002 374 l S
 BT /F1 10 Tf 54 361 Td (implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and) Tj ET
 BT /F1 10 Tf 54 347 Td (security-scanning practices.) Tj ET
 BT /F1 10 Tf 54 332 Td (- AI-Agent and LLM Workflows: Recent work designing and) Tj ET
+0.5 w 64.4 331 m 199.60000000000002 331 l S
 BT /F1 10 Tf 54 318 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
 BT /F2 11 Tf 54 285 Td (QUALIFICATIONS) Tj ET
 BT /F1 10 Tf 54 263 Td (Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance | First Class) Tj ET
 BT /F1 10 Tf 54 249 Td (Limited Stationary Engineer) Tj ET
 BT /F1 10 Tf 54 234 Td (Technology and tools: tech-tools) Tj ET
+0.5 w 168.4 233 m 220.4 233 l S
 BT /F1 10 Tf 54 219 Td (Full evidence portfolio: https://github.com/bp3rry/brian-perry-resume) Tj ET
 endstream
 endobj
 7 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 416 267.20000000000005 428] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/security-engineering-automation.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 416 225.60000000000002 428] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/security-engineering-automation.md) >> >>
 endobj
 8 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 373 267.20000000000005 385] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/cloud-devsecops-engineering.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 373 225.60000000000002 385] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/cloud-devsecops-engineering.md) >> >>
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 330 340 342] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 330 199.60000000000002 342] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 232 220.4 244] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [168.4 232 220.4 244] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
 endobj
 xref
 0 11
@@ -67,12 +71,12 @@ xref
 0000000185 00000 n
 0000000260 00000 n
 0000000431 00000 n
-0000002820 00000 n
-0000003048 00000 n
-0000003272 00000 n
-0000003472 00000 n
+0000002984 00000 n
+0000003214 00000 n
+0000003440 00000 n
+0000003657 00000 n
 trailer
 << /Size 11 /Root 1 0 R >>
 startxref
-3664
+3852
 %%EOF

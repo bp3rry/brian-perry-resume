@@ -79,8 +79,10 @@ function pdfText(text) {
 }
 
 function pdfLink(text) {
-  const match = text.match(/\[[^\]]+\]\(([^)\s]+)\)/);
-  return match ? new URL(match[1], repositoryUrl).href : null;
+  const match = text.match(/\[([^\]]+)\]\(([^)\s]+)\)/);
+  return match
+    ? { label: match[1], url: new URL(match[2], repositoryUrl).href }
+    : null;
 }
 
 function wrap(text, width) {
@@ -115,12 +117,18 @@ function renderPdf(blocks) {
       y = 738;
     }
     const page = pages.at(-1);
-    page.commands.push(`BT /${font} ${size} Tf 54 ${y} Td (${pdfText(text)}) Tj ET`);
-    const url = pdfLink(text);
-    if (url) {
+    const displayText = pdfText(text);
+    page.commands.push(`BT /${font} ${size} Tf 54 ${y} Td (${displayText}) Tj ET`);
+    const link = pdfLink(text);
+    if (link) {
+      const characterWidth = size * 0.52;
+      const linkStart = Math.max(0, displayText.indexOf(link.label));
+      const linkX = 54 + linkStart * characterWidth;
+      const linkWidth = link.label.length * characterWidth;
+      page.commands.push(`0.5 w ${linkX} ${y - 1} m ${linkX + linkWidth} ${y - 1} l S`);
       page.annotations.push({
-        url,
-        rect: [54, y - 2, Math.min(558, 54 + pdfText(text).length * size * 0.52), y + size]
+        url: link.url,
+        rect: [linkX, y - 2, Math.min(558, linkX + linkWidth), y + size]
       });
     }
     y -= leading;

@@ -63,7 +63,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R /Annots [9 0 R 10 0 R 11 0 R 12 0 R] >>
 endobj
 8 0 obj
-<< /Length 1377 >>
+<< /Length 1541 >>
 stream
 BT /F1 10 Tf 54 738 Td (AI-agent design and orchestration, LLMs, LangChain) Tj ET
 BT /F2 11 Tf 54 705 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
@@ -73,27 +73,31 @@ BT /F1 10 Tf 54 653 Td (includes HVAC, mechanical, electrical engineering, plant
 BT /F1 10 Tf 54 639 Td (security, safety skills training.) Tj ET
 BT /F2 11 Tf 54 606 Td (PROJECT EVIDENCE) Tj ET
 BT /F1 10 Tf 54 584 Td (- Security Engineering Automation: Recent) Tj ET
+0.5 w 64.4 583 m 225.60000000000002 583 l S
 BT /F1 10 Tf 54 570 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
 BT /F1 10 Tf 54 556 Td (security review, and security automation.) Tj ET
 BT /F1 10 Tf 54 541 Td (- Cloud and DevSecOps Engineering: Recent) Tj ET
+0.5 w 64.4 540 m 225.60000000000002 540 l S
 BT /F1 10 Tf 54 527 Td (implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and) Tj ET
 BT /F1 10 Tf 54 513 Td (security-scanning practices.) Tj ET
 BT /F1 10 Tf 54 498 Td (- AI-Agent and LLM Workflows: Recent work designing and) Tj ET
+0.5 w 64.4 497 m 199.60000000000002 497 l S
 BT /F1 10 Tf 54 484 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
 BT /F1 10 Tf 54 469 Td (Technology and tools: tech-tools) Tj ET
+0.5 w 168.4 468 m 220.4 468 l S
 endstream
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 582 267.20000000000005 594] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/security-engineering-automation.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 582 225.60000000000002 594] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/security-engineering-automation.md) >> >>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 539 267.20000000000005 551] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/cloud-devsecops-engineering.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 539 225.60000000000002 551] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/cloud-devsecops-engineering.md) >> >>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 496 340 508] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 496 199.60000000000002 508] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [54 467 220.4 479] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [168.4 467 220.4 479] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
 endobj
 xref
 0 13
@@ -106,12 +110,12 @@ xref
 0000000402 00000 n
 0000004237 00000 n
 0000004410 00000 n
-0000005839 00000 n
-0000006067 00000 n
-0000006292 00000 n
-0000006493 00000 n
+0000006003 00000 n
+0000006233 00000 n
+0000006460 00000 n
+0000006678 00000 n
 trailer
 << /Size 13 /Root 1 0 R >>
 startxref
-6685
+6873
 %%EOF
