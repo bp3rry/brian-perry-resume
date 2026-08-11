@@ -39,4 +39,4 @@ Senior security architect and advisor with security architecture, consulting, ma
 - [Cloud and DevSecOps Engineering](../projects/cloud-devsecops-engineering.md): Recent implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and security-scanning practices.
 - [AI-Agent and LLM Workflows](../projects/ai-agent-workflows.md): Recent work designing and implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.
 
-Technology and tools: [tech-tools](../tech-tools/index.html)
+Technology and tools: [tech-tools](../tech-tools/index.md)
