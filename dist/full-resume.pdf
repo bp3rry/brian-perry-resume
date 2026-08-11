@@ -63,24 +63,22 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 1303 >>
+<< /Length 1151 >>
 stream
 BT /F1 10 Tf 54 738 Td (AI-agent design and orchestration, LLMs, LangChain) Tj ET
-BT /F2 11 Tf 54 705 Td (CERTIFICATES) Tj ET
-BT /F1 10 Tf 54 683 Td (- Certificate of Cloud Security Knowledge \(CCSK\) | Cloud Security Alliance) Tj ET
-BT /F2 11 Tf 54 650 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
-BT /F1 10 Tf 54 628 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
-BT /F1 10 Tf 54 613 Td (- First Class Limited Stationary Engineer) Tj ET
-BT /F2 11 Tf 54 580 Td (PROJECT EVIDENCE) Tj ET
-BT /F1 10 Tf 54 558 Td (- Security Engineering Automation: Recent) Tj ET
-BT /F1 10 Tf 54 544 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
-BT /F1 10 Tf 54 530 Td (security review, and security automation.) Tj ET
-BT /F1 10 Tf 54 515 Td (- Cloud and DevSecOps Engineering: Recent) Tj ET
-BT /F1 10 Tf 54 501 Td (implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and) Tj ET
-BT /F1 10 Tf 54 487 Td (security-scanning practices.) Tj ET
-BT /F1 10 Tf 54 472 Td (- AI-Agent and LLM Workflows: Recent work designing and) Tj ET
-BT /F1 10 Tf 54 458 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
-BT /F1 10 Tf 54 443 Td (Technology and tools: tech-tools) Tj ET
+BT /F2 11 Tf 54 705 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
+BT /F1 10 Tf 54 683 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
+BT /F1 10 Tf 54 668 Td (- First Class Limited Stationary Engineer) Tj ET
+BT /F2 11 Tf 54 635 Td (PROJECT EVIDENCE) Tj ET
+BT /F1 10 Tf 54 613 Td (- Security Engineering Automation: Recent) Tj ET
+BT /F1 10 Tf 54 599 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
+BT /F1 10 Tf 54 585 Td (security review, and security automation.) Tj ET
+BT /F1 10 Tf 54 570 Td (- Cloud and DevSecOps Engineering: Recent) Tj ET
+BT /F1 10 Tf 54 556 Td (implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and) Tj ET
+BT /F1 10 Tf 54 542 Td (security-scanning practices.) Tj ET
+BT /F1 10 Tf 54 527 Td (- AI-Agent and LLM Workflows: Recent work designing and) Tj ET
+BT /F1 10 Tf 54 513 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
+BT /F1 10 Tf 54 498 Td (Technology and tools: tech-tools) Tj ET
 endstream
 endobj
 xref
@@ -97,5 +95,5 @@ xref
 trailer
 << /Size 9 /Root 1 0 R >>
 startxref
-5728
+5576
 %%EOF

@@ -32,9 +32,6 @@ Senior security architect and advisor with security architecture, consulting, ma
 **Cloud, Infrastructure, and OT Security:** AWS, Azure, GCP, Docker, Kubernetes, Infrastructure as code, Critical-facilities risk assessment, OT/SCADA security assessment
 **Security Automation and AI Workflows:** Python, Go, TypeScript, GitHub Actions, CI/CD, AI-agent design and orchestration, LLMs, LangChain
 
-## CERTIFICATES
-- Certificate of Cloud Security Knowledge (CCSK) | Cloud Security Alliance
-
 ## PROFESSIONAL QUALIFICATIONS
 - Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance
 - First Class Limited Stationary Engineer
