@@ -72,7 +72,8 @@ function renderFull() {
     "## EXPERIENCE",
     ...resume.work.flatMap((work) => [
       `**${work.name}** | ${work.position} | ${work.startDate ?? ""}-${work.endDate ?? "Present"}`,
-      ...work.highlights.map((highlight) => `- ${highlight}`)
+      ...work.highlights.map((highlight) => `- ${highlight}`),
+      ""
     ]),
     "",
     "## SKILLS",

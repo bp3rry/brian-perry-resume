@@ -9,15 +9,20 @@ Senior security architect and advisor with security architecture, consulting, ma
 **VCE (acquired by Dell EMC)** | Senior Security Architect, Security Consultant, Product Manager | 2011-07-Present
 - Contributed to product design, architecture, security features, and lifecycle support.
 - Provided pre-sales and technical sales support for Vblock systems and solutions.
+
 **Cloud Security Alliance - DFW Chapter** | Founder | 2011-06-2015-12
 - Founded the chapter under the CSA charter and led cloud-security research and discussion.
 - Hosted chapter cloud infrastructure and managed finances, meetings, communications, and fundraising.
+
 **Anthelio Healthcare Solutions (formerly PHNS)** | Senior Director of Information Security, Global Information Security Officer, Practice Manager - Managed Security Services | 2002-10-2011-07
 - Managed Managed Security Services with P&L responsibility of $2.5M.
+
 **Citadel Security** | Senior Security Engineer, Vulnerability/Remediation Researcher | 2002-05-2002-10
 - Delivered pre- and post-sales implementation, technical engineering, and support for an automated vulnerability-remediation solution.
+
 **netForensics** | Senior Security Engineer, Regional Manager | 2001-10-2002-05
 - Delivered pre- and post-sales implementation, technical engineering, and support for SIEM solutions.
+
 **Affiliated Computer Services** | Field Services Engineer and Delivery Manager | 1995-12-2001-10
 - Provided security consulting, intrusion detection, incident response, and service-delivery support.
 
