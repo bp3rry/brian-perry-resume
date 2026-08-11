@@ -5,9 +5,12 @@
   "private": true,
   "scripts": {
     "validate": "node scripts/validate-resume.mjs",
+    "validate:tech-tools": "node scripts/generate-tech-tools.mjs --check",
     "build": "node scripts/render-resumes.mjs",
     "generate": "node scripts/build-resumes.mjs",
-    "render": "node scripts/render-resumes.mjs"
+    "render": "node scripts/render-resumes.mjs",
+    "generate:tech-tools": "node scripts/generate-tech-tools.mjs",
+    "render:tech-tools": "node scripts/generate-tech-tools.mjs"
   },
   "keywords": [],
   "author": "Brian Perry",

@@ -1,0 +1,1258 @@
+{
+  "lastReviewed": "2026-08-11",
+  "categories": [
+    {
+      "path": "tools/security",
+      "title": "Tools / Security"
+    },
+    {
+      "path": "tools/development",
+      "title": "Tools / Development"
+    },
+    {
+      "path": "tools/devops",
+      "title": "Tools / DevOps"
+    },
+    {
+      "path": "technologies/languages",
+      "title": "Technologies / Languages"
+    },
+    {
+      "path": "technologies/frameworks",
+      "title": "Technologies / Frameworks"
+    },
+    {
+      "path": "technologies/cloud-infrastructure",
+      "title": "Technologies / Cloud Infrastructure"
+    },
+    {
+      "path": "technologies/data-databases",
+      "title": "Technologies / Data and Databases"
+    },
+    {
+      "path": "technologies/platforms",
+      "title": "Technologies / Platforms and Operating Systems"
+    },
+    {
+      "path": "practices/security",
+      "title": "Practices / Security"
+    },
+    {
+      "path": "practices/delivery",
+      "title": "Practices / Delivery"
+    },
+    {
+      "path": "practices/engineering",
+      "title": "Practices / Engineering"
+    },
+    {
+      "path": "practices/ai-machine-learning",
+      "title": "Practices / AI and Machine Learning"
+    }
+  ],
+  "entries": [
+    {
+      "name": "Bandit",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://bandit.readthedocs.io/",
+      "aliases": [
+        "Bandit (Python SAST)",
+        "Bandit (SAST)"
+      ]
+    },
+    {
+      "name": "Checkmarx",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://checkmarx.com/",
+      "aliases": [
+        "Checkmarx (SAST/SCA)",
+        "Static Application Security Testing (Checkmarx)"
+      ]
+    },
+    {
+      "name": "Prisma Cloud",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://www.paloaltonetworks.com/prisma/cloud",
+      "aliases": [
+        "Cloud Security (Prisma Cloud)",
+        "Prisma Cloud (Cloud Security)"
+      ]
+    },
+    {
+      "name": "Grype",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://github.com/anchore/grype"
+    },
+    {
+      "name": "Nessus",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://www.tenable.com/products/nessus",
+      "aliases": [
+        "Nessus (Vulnerability Scanner)",
+        "Vulnerability Scanning (Nessus)"
+      ]
+    },
+    {
+      "name": "Nikto",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://cirt.net/Nikto2"
+    },
+    {
+      "name": "Nmap",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://nmap.org/book/man.html"
+    },
+    {
+      "name": "Nuclei",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://docs.projectdiscovery.io/tools/nuclei/overview"
+    },
+    {
+      "name": "OWASP ZAP",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://www.zaproxy.org/docs/"
+    },
+    {
+      "name": "Qualys",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://www.qualys.com/",
+      "aliases": [
+        "Vulnerability Scanning (Qualys)"
+      ]
+    },
+    {
+      "name": "Semgrep",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://semgrep.dev/docs/"
+    },
+    {
+      "name": "SonarQube",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://docs.sonarsource.com/sonarqube/"
+    },
+    {
+      "name": "Tenable",
+      "category": "tools/security",
+      "definition": "Security tool for evaluating, detecting, or managing security concerns.",
+      "reference": "https://www.tenable.com/",
+      "aliases": [
+        "Tenable (Vulnerability Management)",
+        "Vulnerability Management (Tenable)"
+      ]
+    },
+    {
+      "name": "Anthropic Claude",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://docs.anthropic.com/"
+    },
+    {
+      "name": "Cognition",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "aliases": [
+        "Cognition (AI Agent Platform)"
+      ]
+    },
+    {
+      "name": "Cognition Devin",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "aliases": [
+        "Cognition Devin (AI Agent)"
+      ]
+    },
+    {
+      "name": "GitHub Copilot",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://docs.github.com/copilot"
+    },
+    {
+      "name": "Hugging Face",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://huggingface.co/docs"
+    },
+    {
+      "name": "OpenAI API / GPT",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://platform.openai.com/docs/overview",
+      "aliases": [
+        "OpenAI API / GPT Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Windsurf",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://docs.windsurf.com/"
+    },
+    {
+      "name": "BeautifulSoup",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"
+    },
+    {
+      "name": "Black",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://black.readthedocs.io/"
+    },
+    {
+      "name": "Cypress",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://docs.cypress.io/"
+    },
+    {
+      "name": "ESLint",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://eslint.org/docs/latest/"
+    },
+    {
+      "name": "Flake8",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software."
+    },
+    {
+      "name": "Jest",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://jestjs.io/docs/getting-started"
+    },
+    {
+      "name": "Mocha",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software."
+    },
+    {
+      "name": "Playwright",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://playwright.dev/"
+    },
+    {
+      "name": "Prettier",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://prettier.io/docs/"
+    },
+    {
+      "name": "React",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://react.dev/"
+    },
+    {
+      "name": "React Testing Library",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://testing-library.com/docs/react-testing-library/intro/"
+    },
+    {
+      "name": "Ruff",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://docs.astral.sh/ruff/"
+    },
+    {
+      "name": "tox",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software."
+    },
+    {
+      "name": "mypy",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software."
+    },
+    {
+      "name": "pytest",
+      "category": "tools/development",
+      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "reference": "https://docs.pytest.org/"
+    },
+    {
+      "name": "Docker",
+      "category": "tools/devops",
+      "definition": "DevOps tool for automating software delivery or infrastructure work.",
+      "reference": "https://docs.docker.com/"
+    },
+    {
+      "name": "Docker Compose",
+      "category": "tools/devops",
+      "definition": "DevOps tool for automating software delivery or infrastructure work.",
+      "reference": "https://docs.docker.com/compose/"
+    },
+    {
+      "name": "GitHub Actions",
+      "category": "tools/devops",
+      "definition": "DevOps tool for automating software delivery or infrastructure work.",
+      "reference": "https://docs.github.com/actions",
+      "evidence": {
+        "label": "Cloud and DevSecOps Engineering",
+        "url": "../../../projects/cloud-devsecops-engineering.md"
+      }
+    },
+    {
+      "name": "Helm",
+      "category": "tools/devops",
+      "definition": "DevOps tool for automating software delivery or infrastructure work.",
+      "reference": "https://helm.sh/docs/"
+    },
+    {
+      "name": "Jenkins",
+      "category": "tools/devops",
+      "definition": "DevOps tool for automating software delivery or infrastructure work.",
+      "reference": "https://www.jenkins.io/doc/"
+    },
+    {
+      "name": "Kustomize",
+      "category": "tools/devops",
+      "definition": "DevOps tool for automating software delivery or infrastructure work.",
+      "reference": "https://kubectl.docs.kubernetes.io/references/kustomize/"
+    },
+    {
+      "name": "Bash / Shell Scripting",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://www.gnu.org/software/bash/manual/"
+    },
+    {
+      "name": "C#",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://learn.microsoft.com/dotnet/csharp/"
+    },
+    {
+      "name": "Go",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://go.dev/doc/"
+    },
+    {
+      "name": "Groovy",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://groovy-lang.org/documentation.html"
+    },
+    {
+      "name": "HCL",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://developer.hashicorp.com/terraform/language/syntax/configuration"
+    },
+    {
+      "name": "JavaScript",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://developer.mozilla.org/docs/Web/JavaScript"
+    },
+    {
+      "name": "PowerShell",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation."
+    },
+    {
+      "name": "Python",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://www.python.org/doc/"
+    },
+    {
+      "name": "SQL",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation."
+    },
+    {
+      "name": "TypeScript",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation.",
+      "reference": "https://www.typescriptlang.org/docs/"
+    },
+    {
+      "name": "TypeScript (React/TSX)",
+      "category": "technologies/languages",
+      "definition": "Programming or scripting language used to express software and automation."
+    },
+    {
+      "name": "AWS SDK (boto3)",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"
+    },
+    {
+      "name": "Azure SDK",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://azure.github.io/azure-sdk/"
+    },
+    {
+      "name": "Chi",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://go-chi.io/"
+    },
+    {
+      "name": "Click",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://click.palletsprojects.com/"
+    },
+    {
+      "name": "Cobra",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://cobra.dev/"
+    },
+    {
+      "name": "Cryptography Library",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems."
+    },
+    {
+      "name": "Docker SDK",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems."
+    },
+    {
+      "name": "Express.js",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://expressjs.com/"
+    },
+    {
+      "name": "Fabric",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://www.fabfile.org/"
+    },
+    {
+      "name": "Flask",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://flask.palletsprojects.com/"
+    },
+    {
+      "name": "Gin",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://gin-gonic.com/docs/"
+    },
+    {
+      "name": "Gorilla Mux",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://github.com/gorilla/mux"
+    },
+    {
+      "name": "Gunicorn",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://docs.gunicorn.org/"
+    },
+    {
+      "name": "HTTPX",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://www.python-httpx.org/"
+    },
+    {
+      "name": "Jinja2",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://jinja.palletsprojects.com/"
+    },
+    {
+      "name": "Kubernetes SDK",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://kubernetes.io/docs/reference/using-api/client-libraries/"
+    },
+    {
+      "name": "Kubernetes",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://kubernetes.io/docs/home/"
+    },
+    {
+      "name": "LangChain",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://python.langchain.com/docs/introduction/",
+      "aliases": [
+        "LangChain (LLM Framework)"
+      ]
+    },
+    {
+      "name": "Logrus",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://github.com/sirupsen/logrus"
+    },
+    {
+      "name": "NumPy",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://numpy.org/doc/"
+    },
+    {
+      "name": "Paramiko",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://www.paramiko.org/"
+    },
+    {
+      "name": "Pydantic",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://docs.pydantic.dev/"
+    },
+    {
+      "name": "Prometheus Client (Go)",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://pkg.go.dev/github.com/prometheus/client_golang/prometheus"
+    },
+    {
+      "name": "Rich",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems."
+    },
+    {
+      "name": "Testify",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://github.com/stretchr/testify"
+    },
+    {
+      "name": "Viper",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://github.com/spf13/viper"
+    },
+    {
+      "name": "Webpack",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://webpack.js.org/concepts/"
+    },
+    {
+      "name": "WinRM",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://learn.microsoft.com/windows/win32/winrm/portal"
+    },
+    {
+      "name": "aiohttp",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems."
+    },
+    {
+      "name": "pandas",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://pandas.pydata.org/docs/"
+    },
+    {
+      "name": "requests",
+      "category": "technologies/frameworks",
+      "definition": "Library, framework, or component used to build software systems.",
+      "reference": "https://requests.readthedocs.io/"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://aws.amazon.com/"
+    },
+    {
+      "name": "AWS CloudFormation",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html"
+    },
+    {
+      "name": "AWS EC2",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://docs.aws.amazon.com/ec2/"
+    },
+    {
+      "name": "AWS Lambda (Serverless)",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://docs.aws.amazon.com/lambda/",
+      "aliases": [
+        "AWS Lambda"
+      ]
+    },
+    {
+      "name": "AWS S3",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html"
+    },
+    {
+      "name": "Cloudflare",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://www.cloudflare.com/"
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://cloud.google.com/docs"
+    },
+    {
+      "name": "Microsoft Azure",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://learn.microsoft.com/azure/"
+    },
+    {
+      "name": "Nutanix",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "aliases": [
+        "Nutanix (Hyperconverged Infrastructure)"
+      ]
+    },
+    {
+      "name": "OpenStack",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://docs.openstack.org/"
+    },
+    {
+      "name": "Red Hat OpenShift",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "aliases": [
+        "Red Hat OpenShift (Container Platform)"
+      ]
+    },
+    {
+      "name": "VMware",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services.",
+      "reference": "https://www.vmware.com/docs.html"
+    },
+    {
+      "name": "VMware vSphere",
+      "category": "technologies/cloud-infrastructure",
+      "definition": "Cloud or infrastructure technology for operating applications and services."
+    },
+    {
+      "name": "AWS DynamoDB",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html"
+    },
+    {
+      "name": "Apache Cassandra",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology."
+    },
+    {
+      "name": "Apache Kafka",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://kafka.apache.org/",
+      "aliases": [
+        "Apache Kafka (Event Streaming)"
+      ]
+    },
+    {
+      "name": "Elasticsearch",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://www.elastic.co/guide/index.html"
+    },
+    {
+      "name": "InfluxDB",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "aliases": [
+        "InfluxDB (Time Series)"
+      ]
+    },
+    {
+      "name": "MariaDB",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology."
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology."
+    },
+    {
+      "name": "MongoDB",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://www.mongodb.com/docs/"
+    },
+    {
+      "name": "MySQL",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://dev.mysql.com/doc/"
+    },
+    {
+      "name": "Oracle Database",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology."
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://www.postgresql.org/docs/"
+    },
+    {
+      "name": "PostgreSQL (Go)",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology."
+    },
+    {
+      "name": "RabbitMQ",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://www.rabbitmq.com/docs",
+      "aliases": [
+        "RabbitMQ (Message Queue)"
+      ]
+    },
+    {
+      "name": "Redis",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://redis.io/docs/latest/"
+    },
+    {
+      "name": "SQLite",
+      "category": "technologies/data-databases",
+      "definition": "Data storage, search, messaging, or event-streaming technology.",
+      "reference": "https://sqlite.org/docs.html"
+    },
+    {
+      "name": "Alpine Linux",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "AppArmor",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software.",
+      "reference": "https://apparmor.net/"
+    },
+    {
+      "name": "CentOS Linux",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Debian Linux",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Fedora Linux",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Linux",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software.",
+      "reference": "https://www.kernel.org/doc/html/latest/"
+    },
+    {
+      "name": "macOS",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Red Hat Enterprise Linux (RHEL)",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "SELinux",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "systemd",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software.",
+      "reference": "https://systemd.io/"
+    },
+    {
+      "name": "Ubuntu Linux",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Windows",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Windows Server",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Windows Subsystem for Linux (WSL)",
+      "category": "technologies/platforms",
+      "definition": "Platform, operating system, or system capability for running software."
+    },
+    {
+      "name": "Access Control Management",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Attack Surface Management",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "CIS Benchmark Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://www.cisecurity.org/cis-benchmarks"
+    },
+    {
+      "name": "Cloud Security",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Compliance Auditing",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Container Security Scanning",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "CVE Vulnerability Management",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Dependency Scanning",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Disaster Recovery Planning",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Dynamic Application Security Testing (DAST)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "EDR (Endpoint Detection & Response)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Encryption & Cryptography",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "FedRAMP Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://www.fedramp.gov/"
+    },
+    {
+      "name": "GDPR Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://gdpr.eu/"
+    },
+    {
+      "name": "HIPAA Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://www.hhs.gov/hipaa/"
+    },
+    {
+      "name": "Incident Response",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "ISO 27001 Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://www.iso.org/standard/27001"
+    },
+    {
+      "name": "NIST Framework Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://www.nist.gov/cyberframework"
+    },
+    {
+      "name": "Network Segmentation",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "OWASP Standards & Guidelines",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://owasp.org/www-project-top-ten/"
+    },
+    {
+      "name": "PCI-DSS Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://www.pcisecuritystandards.org/"
+    },
+    {
+      "name": "Penetration Testing",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Public Key Infrastructure (PKI)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Risk Assessment",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Role-Based Access Control (RBAC)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "SBOM Generation & Management",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "aliases": [
+        "SBOM (Software Bill of Materials)"
+      ]
+    },
+    {
+      "name": "SBOM (SPDX)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Secure Development Lifecycle (SDL)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://www.microsoft.com/securityengineering/sdl/"
+    },
+    {
+      "name": "Secrets Management",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Security Auditing",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Security Automation",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Security Orchestration",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Security Policy Documentation",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Security Review",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "SIEM (Security Information & Event Management)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Software Composition Analysis (SCA)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Software Supply Chain Security",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Static Application Security Testing (SAST)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "aliases": [
+        "Static Application Security Testing (Checkmarx)"
+      ]
+    },
+    {
+      "name": "STIG Compliance",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "System Hardening",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Threat Modeling",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://owasp.org/www-community/Threat_Modeling"
+    },
+    {
+      "name": "TLS/SSL Certificate Management",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Vulnerability Assessment",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Vulnerability Management",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "aliases": [
+        "Vulnerability Management (Tenable)"
+      ]
+    },
+    {
+      "name": "Vulnerability Remediation",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Vulnerability Scanning",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "aliases": [
+        "Vulnerability Scanning (Nessus)",
+        "Vulnerability Scanning (Qualys)"
+      ]
+    },
+    {
+      "name": "Web Application Firewall (WAF)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "XDR (Extended Detection & Response)",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems."
+    },
+    {
+      "name": "Behavior-Driven Development (BDD)",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software.",
+      "reference": "https://cucumber.io/docs/bdd/"
+    },
+    {
+      "name": "Change Management",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software."
+    },
+    {
+      "name": "CI/CD Pipeline Management",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software."
+    },
+    {
+      "name": "Continuous Integration",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software.",
+      "reference": "https://docs.github.com/actions/automating-builds-and-tests/about-continuous-integration"
+    },
+    {
+      "name": "Jira",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software."
+    },
+    {
+      "name": "Confluence",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software."
+    },
+    {
+      "name": "Scrum",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software.",
+      "reference": "https://scrumguides.org/"
+    },
+    {
+      "name": "Spec-Driven Development (SDD)",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software."
+    },
+    {
+      "name": "API Design & Development",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Agile Methodology",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software.",
+      "reference": "https://agilemanifesto.org/"
+    },
+    {
+      "name": "Code Refactoring",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Code Review",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "High Availability Design",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Infrastructure as Code (IaC)",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Integration Testing",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Microservices Architecture",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Observability",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Performance Optimization",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "System Monitoring & Observability",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Test-Driven Development (TDD)",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software.",
+      "reference": "https://martinfowler.com/bliki/TestDrivenDevelopment.html"
+    },
+    {
+      "name": "Unit Testing",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "Go Testing",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "BDD / Spec Testing",
+      "category": "practices/engineering",
+      "definition": "Engineering practice for designing, building, testing, or operating software."
+    },
+    {
+      "name": "AI Agent Configuration",
+      "category": "practices/ai-machine-learning",
+      "definition": "Practice for designing, configuring, or using AI-enabled systems."
+    },
+    {
+      "name": "AI Agent Design & Orchestration",
+      "category": "practices/ai-machine-learning",
+      "definition": "Practice for designing, configuring, or using AI-enabled systems."
+    },
+    {
+      "name": "AI Agent Development",
+      "category": "practices/ai-machine-learning",
+      "definition": "Practice for designing, configuring, or using AI-enabled systems."
+    },
+    {
+      "name": "AI Skill Authoring",
+      "category": "practices/ai-machine-learning",
+      "definition": "Practice for designing, configuring, or using AI-enabled systems."
+    },
+    {
+      "name": "Agentic AI Workflows",
+      "category": "practices/ai-machine-learning",
+      "definition": "Practice for designing, configuring, or using AI-enabled systems."
+    },
+    {
+      "name": "Large Language Models (LLMs)",
+      "category": "practices/ai-machine-learning",
+      "definition": "Practice for designing, configuring, or using AI-enabled systems."
+    },
+    {
+      "name": "Prompt Engineering",
+      "category": "practices/ai-machine-learning",
+      "definition": "Practice for designing, configuring, or using AI-enabled systems."
+    },
+    {
+      "name": "JWT Authentication",
+      "category": "practices/security",
+      "definition": "Security practice for assessing, protecting, or operating systems.",
+      "reference": "https://jwt.io/introduction"
+    },
+    {
+      "name": "DevSecOps",
+      "category": "practices/delivery",
+      "definition": "Delivery practice for planning, coordinating, or releasing software."
+    }
+  ]
+}

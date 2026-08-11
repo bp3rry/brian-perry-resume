@@ -1,0 +1,8 @@
+:root { color: #111; background: #fff; }
+body { max-width: 7.5in; margin: 0 auto; padding: 0.75in; font: 11pt/1.45 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+h1, h2, p { margin: 0; }
+h1 { margin-bottom: 0.1in; font-size: 18pt; line-height: 1.2; }
+h2 { margin-top: 0.25in; margin-bottom: 0.08in; font-size: 11pt; line-height: 1.2; }
+p { margin-bottom: 0.08in; }
+.item { padding-left: 0.18in; text-indent: -0.18in; }
+a { color: inherit; text-decoration: underline; text-underline-offset: 0.12em; }
