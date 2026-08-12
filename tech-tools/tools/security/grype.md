@@ -1,9 +1,9 @@
 # Grype
 
-Security tool for evaluating, detecting, or managing security concerns.
+A vulnerability scanner for container images and filesystems - anchore/grype
 
 ## Reference
 
 [Official reference](https://github.com/anchore/grype)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

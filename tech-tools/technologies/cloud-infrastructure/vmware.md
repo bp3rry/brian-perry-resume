@@ -1,9 +1,9 @@
 # VMware
 
-Cloud or infrastructure technology for operating applications and services.
+Optimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security.
 
 ## Reference
 
-[Official reference](https://www.vmware.com/docs.html)
+[Official reference](https://www.vmware.com/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

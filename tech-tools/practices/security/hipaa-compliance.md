@@ -1,9 +1,9 @@
 # HIPAA Compliance
 
-Security practice for assessing, protecting, or operating systems.
+Health Information Privacy
 
 ## Reference
 
 [Official reference](https://www.hhs.gov/hipaa/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

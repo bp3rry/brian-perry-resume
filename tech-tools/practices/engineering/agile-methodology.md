@@ -1,9 +1,9 @@
 # Agile Methodology
 
-Engineering practice for designing, building, testing, or operating software.
+We are uncovering better ways of developing software by doing it and helping others do it. These are our values and principles.
 
 ## Reference
 
 [Official reference](https://agilemanifesto.org/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

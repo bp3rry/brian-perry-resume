@@ -1,9 +1,9 @@
 # Linux
 
-Platform, operating system, or system capability for running software.
+Contents Development process Submitting patches Code of conduct Maintainer handbook All development-process docs Core API Driver APIs Subsystems Locking Licensing rules Writing...
 
 ## Reference
 
 [Official reference](https://www.kernel.org/doc/html/latest/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

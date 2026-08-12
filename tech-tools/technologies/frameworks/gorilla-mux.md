@@ -1,9 +1,9 @@
 # Gorilla Mux
 
-Library, framework, or component used to build software systems.
+Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 - gorilla/mux
 
 ## Reference
 
 [Official reference](https://github.com/gorilla/mux)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

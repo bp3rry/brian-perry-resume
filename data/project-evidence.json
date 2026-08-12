@@ -50,5 +50,22 @@
     "summary": "Recent work designing and implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.",
     "evidence": [],
     "card": "projects/ai-agent-workflows.md"
+  },
+  {
+    "id": "necessity",
+    "title": "Necessity: AI-Assisted Security Assessment",
+    "status": "public-summary-ready",
+    "capabilities": [
+      "AI-assisted development",
+      "Security assessment",
+      "Vulnerability scanning",
+      "Dynamic application security testing",
+      "Remediation reporting",
+      "Python",
+      "Plesk"
+    ],
+    "summary": "Recent hands-on development of a web- and Python CLI-based security-assessment application that orchestrates security tools to assess systems and applications and produce remediation-oriented reports.",
+    "evidence": [],
+    "card": "projects/necessity-ai-assisted-security-assessment.md"
   }
 ]

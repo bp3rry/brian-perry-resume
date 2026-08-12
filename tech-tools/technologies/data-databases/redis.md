@@ -1,9 +1,9 @@
 # Redis
 
-Data storage, search, messaging, or event-streaming technology.
+Docs Develop with Redis Libraries and tools Redis products Commands APIs Develop with Redis Libraries and tools Redis products Commands APIs Welcome to Redis Docs Quickly set...
 
 ## Reference
 
 [Official reference](https://redis.io/docs/latest/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

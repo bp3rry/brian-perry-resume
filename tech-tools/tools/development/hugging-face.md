@@ -1,9 +1,9 @@
 # Hugging Face
 
-Development tool that supports building, testing, or maintaining software.
+We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
 ## Reference
 
 [Official reference](https://huggingface.co/docs)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

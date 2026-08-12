@@ -1,9 +1,9 @@
 # GitHub Copilot
 
-Development tool that supports building, testing, or maintaining software.
+You can use GitHub Copilot to enhance your productivity and assist as you work on code.
 
 ## Reference
 
 [Official reference](https://docs.github.com/copilot)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

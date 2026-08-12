@@ -1,9 +1,9 @@
 # Amazon Web Services (AWS)
 
-Cloud or infrastructure technology for operating applications and services.
+Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.
 
 ## Reference
 
 [Official reference](https://aws.amazon.com/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

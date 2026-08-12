@@ -1,9 +1,9 @@
 # pandas
 
-Library, framework, or component used to build software systems.
+pandas documentation # Date : Jul 22, 2026 Version : 3.0.5
 
 ## Reference
 
 [Official reference](https://pandas.pydata.org/docs/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

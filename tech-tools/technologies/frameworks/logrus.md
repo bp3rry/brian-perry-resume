@@ -1,9 +1,9 @@
 # Logrus
 
-Library, framework, or component used to build software systems.
+Structured, pluggable logging for Go. Contribute to sirupsen/logrus development by creating an account on GitHub.
 
 ## Reference
 
 [Official reference](https://github.com/sirupsen/logrus)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

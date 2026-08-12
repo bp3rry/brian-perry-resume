@@ -1,9 +1,9 @@
 # CIS Benchmark Compliance
 
-Security practice for assessing, protecting, or operating systems.
+CIS Benchmarks help you safeguard systems, software, and networks against today's evolving cyber threats.
 
 ## Reference
 
 [Official reference](https://www.cisecurity.org/cis-benchmarks)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

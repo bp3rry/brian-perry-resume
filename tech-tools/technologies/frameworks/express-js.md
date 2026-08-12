@@ -1,9 +1,9 @@
 # Express.js
 
-Library, framework, or component used to build software systems.
+Fast, unopinionated, minimalist web framework for Node.js
 
 ## Reference
 
 [Official reference](https://expressjs.com/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

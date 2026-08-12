@@ -1,9 +1,9 @@
 # Microsoft Azure
 
-Cloud or infrastructure technology for operating applications and services.
+Learn how to build and manage powerful applications using Microsoft Azure cloud services. Get documentation, example code, tutorials, and more.
 
 ## Reference
 
 [Official reference](https://learn.microsoft.com/azure/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

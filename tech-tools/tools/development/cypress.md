@@ -1,9 +1,9 @@
 # Cypress
 
-Development tool that supports building, testing, or maintaining software.
+Your Docusaurus site did not load properly.
 
 ## Reference
 
 [Official reference](https://docs.cypress.io/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

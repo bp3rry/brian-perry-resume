@@ -1,9 +1,9 @@
 # Black
 
-Development tool that supports building, testing, or maintaining software.
+The uncompromising code formatter ¶ “Any color you like.”
 
 ## Reference
 
 [Official reference](https://black.readthedocs.io/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

@@ -1,9 +1,9 @@
 # Nuclei
 
-Security tool for evaluating, detecting, or managing security concerns.
+A fast and customisable vulnerability scanner powered by simple YAML-based templates
 
 ## Reference
 
 [Official reference](https://docs.projectdiscovery.io/tools/nuclei/overview)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

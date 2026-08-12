@@ -1,9 +1,9 @@
 # Testify
 
-Library, framework, or component used to build software systems.
+A toolkit with common assertions and mocks that plays nicely with the standard library - stretchr/testify
 
 ## Reference
 
 [Official reference](https://github.com/stretchr/testify)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

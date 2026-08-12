@@ -1,9 +1,9 @@
 # Anthropic Claude
 
-Development tool that supports building, testing, or maintaining software.
+Claude API Documentation
 
 ## Reference
 
 [Official reference](https://docs.anthropic.com/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

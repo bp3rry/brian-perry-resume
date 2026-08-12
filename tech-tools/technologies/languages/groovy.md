@@ -1,9 +1,9 @@
 # Groovy
 
-Programming or scripting language used to express software and automation.
+You are using an outdated browser. Please upgrade your browser to improve your experience.
 
 ## Reference
 
 [Official reference](https://groovy-lang.org/documentation.html)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

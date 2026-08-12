@@ -1,9 +1,9 @@
 # Bash / Shell Scripting
 
-Programming or scripting language used to express software and automation.
+GNU Operating System Supported by the Free Software Foundation
 
 ## Reference
 
 [Official reference](https://www.gnu.org/software/bash/manual/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

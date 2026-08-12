@@ -1,9 +1,9 @@
 # Jenkins
 
-DevOps tool for automating software delivery or infrastructure work.
+Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software
 
 ## Reference
 
 [Official reference](https://www.jenkins.io/doc/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

@@ -1,9 +1,9 @@
 # Google Cloud Platform (GCP)
 
-Cloud or infrastructure technology for operating applications and services.
+Dokumentasi, panduan, dan referensi yang komprehensif untuk produk dan layanan Google Cloud.
 
 ## Reference
 
 [Official reference](https://cloud.google.com/docs)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

@@ -1,9 +1,9 @@
 # OpenAI API / GPT
 
-Development tool that supports building, testing, or maintaining software.
+API Reference Introduction API Overview Use this reference to look up OpenAI API endpoints, request and response schemas, streaming events, client library methods, and shared...
 
 ## Reference
 
-[Official reference](https://platform.openai.com/docs/overview)
+[Official reference](https://developers.openai.com/api/reference/overview)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

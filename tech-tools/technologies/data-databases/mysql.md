@@ -1,9 +1,9 @@
 # MySQL
 
-Data storage, search, messaging, or event-streaming technology.
+MySQL :: MySQL Documentation
 
 ## Reference
 
 [Official reference](https://dev.mysql.com/doc/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

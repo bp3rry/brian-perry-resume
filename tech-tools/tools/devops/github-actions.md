@@ -1,6 +1,6 @@
 # GitHub Actions
 
-DevOps tool for automating software delivery or infrastructure work.
+Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any...
 
 ## Reference
 
@@ -10,4 +10,4 @@ DevOps tool for automating software delivery or infrastructure work.
 
 - [Cloud and DevSecOps Engineering](../../../projects/cloud-devsecops-engineering.md)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

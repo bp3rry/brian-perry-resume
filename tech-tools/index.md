@@ -6,148 +6,148 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 
 ## Tools / Security
 
-- [Bandit](tools/security/bandit.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Checkmarx](tools/security/checkmarx.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Grype](tools/security/grype.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Nessus](tools/security/nessus.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Nikto](tools/security/nikto.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Nmap](tools/security/nmap.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Nuclei](tools/security/nuclei.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [OWASP ZAP](tools/security/owasp-zap.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Prisma Cloud](tools/security/prisma-cloud.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Qualys](tools/security/qualys.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Semgrep](tools/security/semgrep.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [SonarQube](tools/security/sonarqube.md) - Security tool for evaluating, detecting, or managing security concerns.
-- [Tenable](tools/security/tenable.md) - Security tool for evaluating, detecting, or managing security concerns.
+- [Bandit](tools/security/bandit.md) - Bandit is a tool designed to find common security issues in Python code. To do this, Bandit processes each file, builds an AST from it, and runs appropriate plugins against the...
+- [Checkmarx](tools/security/checkmarx.md) - Checkmarx agentic application security software platform Combines Hybrid scanning, AI-powered agents, and unified risk intelligence across every attack surface
+- [Grype](tools/security/grype.md) - A vulnerability scanner for container images and filesystems - anchore/grype
+- [Nessus](tools/security/nessus.md) - Find out more about Nessus - the trusted gold standard for vulnerability assessment, designed for modern attack surfaces - used by thousands of organizations.
+- [Nikto](tools/security/nikto.md) - The Nikto Web Scanner Install Nikto via GitHub Download Latest GitHub Release Docs Wiki Nikto is an open-source web server scanner designed for security professionals,...
+- [Nmap](tools/security/nmap.md) - Download Reference Guide Book Docs Zenmap GUI In the Movies Nmap Network Scanning Chapter 15. Nmap Reference Guide Prev Next Chapter 15. Nmap Reference Guide Table of Contents...
+- [Nuclei](tools/security/nuclei.md) - A fast and customisable vulnerability scanner powered by simple YAML-based templates
+- [OWASP ZAP](tools/security/owasp-zap.md) - The world’s most widely used web app scanner. Free and open source. ZAP is a community project actively maintained by a dedicated international team, and a GitHub Top 1000 project.
+- [Prisma Cloud](tools/security/prisma-cloud.md) - Prisma Cloud is the most complete Cloud Native Application Protection Platform (CNAPP) for code to cloud security in any cloud, multicloud, and hybrid environment.
+- [Qualys](tools/security/qualys.md) - Discover how Qualys helps your business measure & eliminate cyber threats through a host of cybersecurity detection & remediation tools. Try it today!
+- [Semgrep](tools/security/semgrep.md) - Get started with Semgrep to help you catch, flag, and fix real vulnerabilities before they ship.
+- [SonarQube](tools/security/sonarqube.md) - SonarQube provides automated code quality and security reviews, delivering actionable intelligence that helps developers build better and faster.
+- [Tenable](tools/security/tenable.md) - The leader in exposure management and AI security, Tenable cybersecurity solutions reduce cyber risk across IT, OT, cloud, identity & hybrid attack surfaces.
 
 ## Tools / Development
 
-- [Anthropic Claude](tools/development/anthropic-claude.md) - Development tool that supports building, testing, or maintaining software.
-- [BeautifulSoup](tools/development/beautifulsoup.md) - Development tool that supports building, testing, or maintaining software.
-- [Black](tools/development/black.md) - Development tool that supports building, testing, or maintaining software.
+- [Anthropic Claude](tools/development/anthropic-claude.md) - Claude API Documentation
+- [BeautifulSoup](tools/development/beautifulsoup.md) - Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and...
+- [Black](tools/development/black.md) - The uncompromising code formatter ¶ “Any color you like.”
 - [Cognition](tools/development/cognition.md) - Development tool that supports building, testing, or maintaining software.
 - [Cognition Devin](tools/development/cognition-devin.md) - Development tool that supports building, testing, or maintaining software.
-- [Cypress](tools/development/cypress.md) - Development tool that supports building, testing, or maintaining software.
-- [ESLint](tools/development/eslint.md) - Development tool that supports building, testing, or maintaining software.
+- [Cypress](tools/development/cypress.md) - Your Docusaurus site did not load properly.
+- [ESLint](tools/development/eslint.md) - A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
 - [Flake8](tools/development/flake8.md) - Development tool that supports building, testing, or maintaining software.
-- [GitHub Copilot](tools/development/github-copilot.md) - Development tool that supports building, testing, or maintaining software.
-- [Hugging Face](tools/development/hugging-face.md) - Development tool that supports building, testing, or maintaining software.
-- [Jest](tools/development/jest.md) - Development tool that supports building, testing, or maintaining software.
+- [GitHub Copilot](tools/development/github-copilot.md) - You can use GitHub Copilot to enhance your productivity and assist as you work on code.
+- [Hugging Face](tools/development/hugging-face.md) - We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+- [Jest](tools/development/jest.md) - Install Jest using your favorite package manager:
 - [Mocha](tools/development/mocha.md) - Development tool that supports building, testing, or maintaining software.
 - [mypy](tools/development/mypy.md) - Development tool that supports building, testing, or maintaining software.
-- [OpenAI API / GPT](tools/development/openai-api-gpt.md) - Development tool that supports building, testing, or maintaining software.
-- [Playwright](tools/development/playwright.md) - Development tool that supports building, testing, or maintaining software.
-- [Prettier](tools/development/prettier.md) - Development tool that supports building, testing, or maintaining software.
-- [pytest](tools/development/pytest.md) - Development tool that supports building, testing, or maintaining software.
-- [React Testing Library](tools/development/react-testing-library.md) - Development tool that supports building, testing, or maintaining software.
-- [Ruff](tools/development/ruff.md) - Development tool that supports building, testing, or maintaining software.
+- [OpenAI API / GPT](tools/development/openai-api-gpt.md) - API Reference Introduction API Overview Use this reference to look up OpenAI API endpoints, request and response schemas, streaming events, client library methods, and shared...
+- [Playwright](tools/development/playwright.md) - Your Docusaurus site did not load properly.
+- [Prettier](tools/development/prettier.md) - On this page What is Prettier? Prettier is an opinionated code formatter with support for:
+- [pytest](tools/development/pytest.md) - pytest development sprint , July 20th – 24th , Klaus (AT), sign-up open until June 15th
+- [React Testing Library](tools/development/react-testing-library.md) - React Testing Library builds on top of DOM Testing Library by adding
+- [Ruff](tools/development/ruff.md) - An extremely fast Python linter and code formatter, written in Rust.
 - [tox](tools/development/tox.md) - Development tool that supports building, testing, or maintaining software.
-- [Windsurf](tools/development/windsurf.md) - Development tool that supports building, testing, or maintaining software.
+- [Windsurf](tools/development/windsurf.md) - Download and install Devin Desktop IDE for Mac, Windows, or Linux. Import VS Code or Cursor settings, configure themes, and start coding with AI-powered assistance.
 
 ## Tools / DevOps
 
-- [Docker](tools/devops/docker.md) - DevOps tool for automating software delivery or infrastructure work.
-- [Docker Compose](tools/devops/docker-compose.md) - DevOps tool for automating software delivery or infrastructure work.
-- [GitHub Actions](tools/devops/github-actions.md) - DevOps tool for automating software delivery or infrastructure work.
-- [Helm](tools/devops/helm.md) - DevOps tool for automating software delivery or infrastructure work.
-- [Jenkins](tools/devops/jenkins.md) - DevOps tool for automating software delivery or infrastructure work.
-- [Kustomize](tools/devops/kustomize.md) - DevOps tool for automating software delivery or infrastructure work.
+- [Docker](tools/devops/docker.md) - Docker Documentation is the official Docker library of resources, manuals, and guides to help you containerize applications.
+- [Docker Compose](tools/devops/docker-compose.md) - Learn how to use Docker Compose to define and run multi-container applications with this detailed introduction to the tool.
+- [GitHub Actions](tools/devops/github-actions.md) - Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any...
+- [Helm](tools/devops/helm.md) - Docs Docs Home Version: 4.2.3 Welcome Welcome to the Helm documentation. Helm is the package manager for Kubernetes, and you can read detailed background information in the...
+- [Jenkins](tools/devops/jenkins.md) - Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software
+- [Kustomize](tools/devops/kustomize.md) - Reference Docs for Kustomize
 
 ## Technologies / Languages
 
-- [Bash / Shell Scripting](technologies/languages/bash-shell-scripting.md) - Programming or scripting language used to express software and automation.
-- [C#](technologies/languages/c.md) - Programming or scripting language used to express software and automation.
-- [Go](technologies/languages/go.md) - Programming or scripting language used to express software and automation.
-- [Groovy](technologies/languages/groovy.md) - Programming or scripting language used to express software and automation.
-- [HCL](technologies/languages/hcl.md) - Programming or scripting language used to express software and automation.
-- [JavaScript](technologies/languages/javascript.md) - Programming or scripting language used to express software and automation.
+- [Bash / Shell Scripting](technologies/languages/bash-shell-scripting.md) - GNU Operating System Supported by the Free Software Foundation
+- [C#](technologies/languages/c.md) - The C# guide has everything you need to learn C# and get started writing .NET apps. Learn C# programming - for beginning developers, developers new to C#, and experienced C# /...
+- [Go](technologies/languages/go.md) - Stories about how and why companies use Go
+- [Groovy](technologies/languages/groovy.md) - You are using an outdated browser. Please upgrade your browser to improve your experience.
+- [HCL](technologies/languages/hcl.md) - Key constructs of the native Terraform language syntax, including identifiers, arguments, blocks, and comments.
+- [JavaScript](technologies/languages/javascript.md) - JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language...
 - [PowerShell](technologies/languages/powershell.md) - Programming or scripting language used to express software and automation.
-- [Python](technologies/languages/python.md) - Programming or scripting language used to express software and automation.
+- [Python](technologies/languages/python.md) - The official home of the Python Programming Language
 - [SQL](technologies/languages/sql.md) - Programming or scripting language used to express software and automation.
-- [TypeScript](technologies/languages/typescript.md) - Programming or scripting language used to express software and automation.
+- [TypeScript](technologies/languages/typescript.md) - Find TypeScript starter projects: from Angular to React or Node.js and CLIs.
 - [TypeScript (React/TSX)](technologies/languages/typescript-react-tsx.md) - Programming or scripting language used to express software and automation.
 
 ## Technologies / Frameworks
 
 - [aiohttp](technologies/frameworks/aiohttp.md) - Library, framework, or component used to build software systems.
-- [AWS SDK (boto3)](technologies/frameworks/aws-sdk-boto3.md) - Library, framework, or component used to build software systems.
-- [Azure SDK](technologies/frameworks/azure-sdk.md) - Library, framework, or component used to build software systems.
-- [Chi](technologies/frameworks/chi.md) - Library, framework, or component used to build software systems.
-- [Click](technologies/frameworks/click.md) - Library, framework, or component used to build software systems.
-- [Cobra](technologies/frameworks/cobra.md) - Library, framework, or component used to build software systems.
+- [AWS SDK (boto3)](technologies/frameworks/aws-sdk-boto3.md) - Do you have a suggestion to improve this website or boto3? Give us feedback .
+- [Azure SDK](technologies/frameworks/azure-sdk.md) - This page provides an inventory of all Azure SDK library packages, code, and documentation. The Client Libraries and Management Libraries tabs contain libraries that follow the...
+- [Chi](technologies/frameworks/chi.md) - A lightweight, idiomatic and composable router for building Go HTTP services.
+- [Click](technologies/frameworks/click.md) - Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”....
+- [Cobra](technologies/frameworks/cobra.md) - Build Modern CLIs That Users Love. AI-Ready, Beautiful by Default, Observable from Day One. Used by 173,000&#43; projects worldwide including Kubernetes, Docker, …
 - [Cryptography Library](technologies/frameworks/cryptography-library.md) - Library, framework, or component used to build software systems.
 - [Docker SDK](technologies/frameworks/docker-sdk.md) - Library, framework, or component used to build software systems.
-- [Express.js](technologies/frameworks/express-js.md) - Library, framework, or component used to build software systems.
-- [Fabric](technologies/frameworks/fabric.md) - Library, framework, or component used to build software systems.
-- [Flask](technologies/frameworks/flask.md) - Library, framework, or component used to build software systems.
-- [Gin](technologies/frameworks/gin.md) - Library, framework, or component used to build software systems.
-- [Gorilla Mux](technologies/frameworks/gorilla-mux.md) - Library, framework, or component used to build software systems.
-- [Gunicorn](technologies/frameworks/gunicorn.md) - Library, framework, or component used to build software systems.
-- [HTTPX](technologies/frameworks/httpx.md) - Library, framework, or component used to build software systems.
-- [Jinja2](technologies/frameworks/jinja2.md) - Library, framework, or component used to build software systems.
-- [Kubernetes SDK](technologies/frameworks/kubernetes-sdk.md) - Library, framework, or component used to build software systems.
-- [LangChain](technologies/frameworks/langchain.md) - Library, framework, or component used to build software systems.
-- [Logrus](technologies/frameworks/logrus.md) - Library, framework, or component used to build software systems.
-- [NumPy](technologies/frameworks/numpy.md) - Library, framework, or component used to build software systems.
-- [pandas](technologies/frameworks/pandas.md) - Library, framework, or component used to build software systems.
-- [Paramiko](technologies/frameworks/paramiko.md) - Library, framework, or component used to build software systems.
-- [Prometheus Client (Go)](technologies/frameworks/prometheus-client-go.md) - Library, framework, or component used to build software systems.
-- [Pydantic](technologies/frameworks/pydantic.md) - Library, framework, or component used to build software systems.
-- [React](technologies/frameworks/react.md) - Library, framework, or component used to build software systems.
-- [requests](technologies/frameworks/requests.md) - Library, framework, or component used to build software systems.
+- [Express.js](technologies/frameworks/express-js.md) - Fast, unopinionated, minimalist web framework for Node.js
+- [Fabric](technologies/frameworks/fabric.md) - Fabric is a high level Python (2.7, 3.4+) library designed to execute shell commands remotely over SSH, yielding useful Python objects in return. It builds on top of Invoke...
+- [Flask](technologies/frameworks/flask.md) - Welcome to Flask’s documentation. Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to...
+- [Gin](technologies/frameworks/gin.md) - Documentation Gin is a high-performance HTTP web framework written in Go . It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks...
+- [Gorilla Mux](technologies/frameworks/gorilla-mux.md) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 - gorilla/mux
+- [Gunicorn](technologies/frameworks/gunicorn.md) - Gunicorn benoitc/gunicorn Home Getting Started Getting Started Quickstart Install Run Configure Guides Guides Deploy Docker HTTP/2 ASGI Worker Dirty Arbiters Control Interface...
+- [HTTPX](technologies/frameworks/httpx.md) - A next-generation HTTP client for Python.
+- [Jinja2](technologies/frameworks/jinja2.md) - Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to...
+- [Kubernetes SDK](technologies/frameworks/kubernetes-sdk.md) - This page contains an overview of the client libraries for using the Kubernetes API from various programming languages. To write applications using the Kubernetes REST API, you...
+- [LangChain](technologies/frameworks/langchain.md) - LangChain provides create_agent: a minimal, highly configurable agent harness. Compose exactly the agent your use case needs from model, tools, prompt, and middleware.
+- [Logrus](technologies/frameworks/logrus.md) - Structured, pluggable logging for Go. Contribute to sirupsen/logrus development by creating an account on GitHub.
+- [NumPy](technologies/frameworks/numpy.md) - NumPy 2.5 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]
+- [pandas](technologies/frameworks/pandas.md) - pandas documentation # Date : Jul 22, 2026 Version : 3.0.5
+- [Paramiko](technologies/frameworks/paramiko.md) - Paramiko is a pure-Python [ 1 ] implementation of the SSHv2 protocol [ 2 ] , providing both client and server functionality. It provides the foundation for the high-level SSH...
+- [Prometheus Client (Go)](technologies/frameworks/prometheus-client-go.md) - Package prometheus is the core instrumentation package.
+- [Pydantic](technologies/frameworks/pydantic.md) - Documentation for the Pydantic stack. Validate data with Pydantic Validation, build production AI agents with Pydantic AI, and monitor LLM calls, agent behavior, and costs with...
+- [React](technologies/frameworks/react.md) - React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you...
+- [requests](technologies/frameworks/requests.md) - Requests is an elegant and simple HTTP library for Python, built for human beings.
 - [Rich](technologies/frameworks/rich.md) - Library, framework, or component used to build software systems.
-- [Testify](technologies/frameworks/testify.md) - Library, framework, or component used to build software systems.
-- [Viper](technologies/frameworks/viper.md) - Library, framework, or component used to build software systems.
-- [Webpack](technologies/frameworks/webpack.md) - Library, framework, or component used to build software systems.
-- [WinRM](technologies/frameworks/winrm.md) - Library, framework, or component used to build software systems.
+- [Testify](technologies/frameworks/testify.md) - A toolkit with common assertions and mocks that plays nicely with the standard library - stretchr/testify
+- [Viper](technologies/frameworks/viper.md) - Go configuration with fangs. Contribute to spf13/viper development by creating an account on GitHub.
+- [Webpack](technologies/frameworks/webpack.md) - webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about...
+- [WinRM](technologies/frameworks/winrm.md) - Windows Remote Management (WinRM) is the Microsoft implementation of the WS-Management Protocol, which is a standard SOAP-based, firewall-friendly protocol that allows...
 
 ## Technologies / Cloud Infrastructure
 
-- [Amazon Web Services (AWS)](technologies/cloud-infrastructure/amazon-web-services-aws.md) - Cloud or infrastructure technology for operating applications and services.
-- [AWS CloudFormation](technologies/cloud-infrastructure/aws-cloudformation.md) - Cloud or infrastructure technology for operating applications and services.
-- [AWS EC2](technologies/cloud-infrastructure/aws-ec2.md) - Cloud or infrastructure technology for operating applications and services.
-- [AWS Lambda (Serverless)](technologies/cloud-infrastructure/aws-lambda-serverless.md) - Cloud or infrastructure technology for operating applications and services.
-- [AWS S3](technologies/cloud-infrastructure/aws-s3.md) - Cloud or infrastructure technology for operating applications and services.
-- [Cloudflare](technologies/cloud-infrastructure/cloudflare.md) - Cloud or infrastructure technology for operating applications and services.
-- [Google Cloud Platform (GCP)](technologies/cloud-infrastructure/google-cloud-platform-gcp.md) - Cloud or infrastructure technology for operating applications and services.
-- [Kubernetes](technologies/cloud-infrastructure/kubernetes.md) - Cloud or infrastructure technology for operating applications and services.
-- [Microsoft Azure](technologies/cloud-infrastructure/microsoft-azure.md) - Cloud or infrastructure technology for operating applications and services.
+- [Amazon Web Services (AWS)](technologies/cloud-infrastructure/amazon-web-services-aws.md) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.
+- [AWS CloudFormation](technologies/cloud-infrastructure/aws-cloudformation.md) - Use CloudFormation to model, provision, and manage AWS and third-party resources by treating infrastructure as code.
+- [AWS EC2](technologies/cloud-infrastructure/aws-ec2.md) - Amazon EC2 Amazon EC2 User Guide Describes key concepts for Amazon EC2 and provides instructions for how to configure and use Amazon EC2 features.
+- [AWS Lambda (Serverless)](technologies/cloud-infrastructure/aws-lambda-serverless.md) - Lambda guides and references Developer Guide Provides a conceptual overview of AWS Lambda, detailed instructions for using the various features, and a complete API reference...
+- [AWS S3](technologies/cloud-infrastructure/aws-s3.md) - Store data in the cloud and learn the core concepts of buckets and objects with the Amazon S3 web service.
+- [Cloudflare](technologies/cloud-infrastructure/cloudflare.md) - Welcome to Cloudflare - Powering the next generation of applications
+- [Google Cloud Platform (GCP)](technologies/cloud-infrastructure/google-cloud-platform-gcp.md) - Dokumentasi, panduan, dan referensi yang komprehensif untuk produk dan layanan Google Cloud.
+- [Kubernetes](technologies/cloud-infrastructure/kubernetes.md) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted...
+- [Microsoft Azure](technologies/cloud-infrastructure/microsoft-azure.md) - Learn how to build and manage powerful applications using Microsoft Azure cloud services. Get documentation, example code, tutorials, and more.
 - [Nutanix](technologies/cloud-infrastructure/nutanix.md) - Cloud or infrastructure technology for operating applications and services.
-- [OpenStack](technologies/cloud-infrastructure/openstack.md) - Cloud or infrastructure technology for operating applications and services.
+- [OpenStack](technologies/cloud-infrastructure/openstack.md) - What is OpenStack? OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a...
 - [Red Hat OpenShift](technologies/cloud-infrastructure/red-hat-openshift.md) - Cloud or infrastructure technology for operating applications and services.
-- [VMware](technologies/cloud-infrastructure/vmware.md) - Cloud or infrastructure technology for operating applications and services.
+- [VMware](technologies/cloud-infrastructure/vmware.md) - Optimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security.
 - [VMware vSphere](technologies/cloud-infrastructure/vmware-vsphere.md) - Cloud or infrastructure technology for operating applications and services.
 
 ## Technologies / Data and Databases
 
 - [Apache Cassandra](technologies/data-databases/apache-cassandra.md) - Data storage, search, messaging, or event-streaming technology.
-- [Apache Kafka](technologies/data-databases/apache-kafka.md) - Data storage, search, messaging, or event-streaming technology.
-- [AWS DynamoDB](technologies/data-databases/aws-dynamodb.md) - Data storage, search, messaging, or event-streaming technology.
-- [Elasticsearch](technologies/data-databases/elasticsearch.md) - Data storage, search, messaging, or event-streaming technology.
+- [Apache Kafka](technologies/data-databases/apache-kafka.md) - Apache Kafka
+- [AWS DynamoDB](technologies/data-databases/aws-dynamodb.md) - Use DynamoDB, a fully managed NoSQL database service to store and retrieve any amount of data, and serve any level of request traffic.
+- [Elasticsearch](technologies/data-databases/elasticsearch.md) - Welcome to the docs that cover all changes in Elastic Stack 8.19 and earlier. To view the docs for the latest Elastic product versions, including Elastic Stack 9.1 and Elastic...
 - [InfluxDB](technologies/data-databases/influxdb.md) - Data storage, search, messaging, or event-streaming technology.
 - [MariaDB](technologies/data-databases/mariadb.md) - Data storage, search, messaging, or event-streaming technology.
 - [Microsoft SQL Server](technologies/data-databases/microsoft-sql-server.md) - Data storage, search, messaging, or event-streaming technology.
-- [MongoDB](technologies/data-databases/mongodb.md) - Data storage, search, messaging, or event-streaming technology.
-- [MySQL](technologies/data-databases/mysql.md) - Data storage, search, messaging, or event-streaming technology.
+- [MongoDB](technologies/data-databases/mongodb.md) - Official MongoDB Documentation. Learn to store data in flexible documents, create an Atlas deployment, and use our tools and integrations.
+- [MySQL](technologies/data-databases/mysql.md) - MySQL :: MySQL Documentation
 - [Oracle Database](technologies/data-databases/oracle-database.md) - Data storage, search, messaging, or event-streaming technology.
-- [PostgreSQL](technologies/data-databases/postgresql.md) - Data storage, search, messaging, or event-streaming technology.
+- [PostgreSQL](technologies/data-databases/postgresql.md) - You can view the manual for an older version or download a PDF of a manual from the below table.
 - [PostgreSQL (Go)](technologies/data-databases/postgresql-go.md) - Data storage, search, messaging, or event-streaming technology.
-- [RabbitMQ](technologies/data-databases/rabbitmq.md) - Data storage, search, messaging, or event-streaming technology.
-- [Redis](technologies/data-databases/redis.md) - Data storage, search, messaging, or event-streaming technology.
-- [SQLite](technologies/data-databases/sqlite.md) - Data storage, search, messaging, or event-streaming technology.
+- [RabbitMQ](technologies/data-databases/rabbitmq.md) - Introduction Version: 4.3 On this page RabbitMQ 4.3 Documentation Welcome to RabbitMQ documentation!
+- [Redis](technologies/data-databases/redis.md) - Docs Develop with Redis Libraries and tools Redis products Commands APIs Develop with Redis Libraries and tools Redis products Commands APIs Welcome to Redis Docs Quickly set...
+- [SQLite](technologies/data-databases/sqlite.md) - SQLite Documentation
 
 ## Technologies / Platforms and Operating Systems
 
 - [Alpine Linux](technologies/platforms/alpine-linux.md) - Platform, operating system, or system capability for running software.
-- [AppArmor](technologies/platforms/apparmor.md) - Platform, operating system, or system capability for running software.
+- [AppArmor](technologies/platforms/apparmor.md) - AppArmor apparmor/apparmor Home Home On this page What does it look like in practice? Where to go next Recent releases Getting Started Getting Started Quick Reference (Cheat...
 - [CentOS Linux](technologies/platforms/centos-linux.md) - Platform, operating system, or system capability for running software.
 - [Debian Linux](technologies/platforms/debian-linux.md) - Platform, operating system, or system capability for running software.
 - [Fedora Linux](technologies/platforms/fedora-linux.md) - Platform, operating system, or system capability for running software.
-- [Linux](technologies/platforms/linux.md) - Platform, operating system, or system capability for running software.
+- [Linux](technologies/platforms/linux.md) - Contents Development process Submitting patches Code of conduct Maintainer handbook All development-process docs Core API Driver APIs Subsystems Locking Licensing rules Writing...
 - [macOS](technologies/platforms/macos.md) - Platform, operating system, or system capability for running software.
 - [Red Hat Enterprise Linux (RHEL)](technologies/platforms/red-hat-enterprise-linux-rhel.md) - Platform, operating system, or system capability for running software.
 - [SELinux](technologies/platforms/selinux.md) - Platform, operating system, or system capability for running software.
-- [systemd](technologies/platforms/systemd.md) - Platform, operating system, or system capability for running software.
+- [systemd](technologies/platforms/systemd.md) - systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
 - [Ubuntu Linux](technologies/platforms/ubuntu-linux.md) - Platform, operating system, or system capability for running software.
 - [Windows](technologies/platforms/windows.md) - Platform, operating system, or system capability for running software.
 - [Windows Server](technologies/platforms/windows-server.md) - Platform, operating system, or system capability for running software.
@@ -157,7 +157,7 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 
 - [Access Control Management](practices/security/access-control-management.md) - Security practice for assessing, protecting, or operating systems.
 - [Attack Surface Management](practices/security/attack-surface-management.md) - Security practice for assessing, protecting, or operating systems.
-- [CIS Benchmark Compliance](practices/security/cis-benchmark-compliance.md) - Security practice for assessing, protecting, or operating systems.
+- [CIS Benchmark Compliance](practices/security/cis-benchmark-compliance.md) - CIS Benchmarks help you safeguard systems, software, and networks against today's evolving cyber threats.
 - [Cloud Security](practices/security/cloud-security.md) - Security practice for assessing, protecting, or operating systems.
 - [Compliance Auditing](practices/security/compliance-auditing.md) - Security practice for assessing, protecting, or operating systems.
 - [Container Security Scanning](practices/security/container-security-scanning.md) - Security practice for assessing, protecting, or operating systems.
@@ -167,16 +167,16 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [Dynamic Application Security Testing (DAST)](practices/security/dynamic-application-security-testing-dast.md) - Security practice for assessing, protecting, or operating systems.
 - [EDR (Endpoint Detection & Response)](practices/security/edr-endpoint-detection-and-response.md) - Security practice for assessing, protecting, or operating systems.
 - [Encryption & Cryptography](practices/security/encryption-and-cryptography.md) - Security practice for assessing, protecting, or operating systems.
-- [FedRAMP Compliance](practices/security/fedramp-compliance.md) - Security practice for assessing, protecting, or operating systems.
-- [GDPR Compliance](practices/security/gdpr-compliance.md) - Security practice for assessing, protecting, or operating systems.
-- [HIPAA Compliance](practices/security/hipaa-compliance.md) - Security practice for assessing, protecting, or operating systems.
+- [FedRAMP Compliance](practices/security/fedramp-compliance.md) - The Federal Risk and Authorization Management Program, or FedRAMP, is a government-wide program that provides a standardized approach to security assessment.
+- [GDPR Compliance](practices/security/gdpr-compliance.md) - The EU General Data Protection Regulation went into effect on May 25, 2018, replacing the Data Protection Directive 95/46/EC. Designed to increase data privacy for EU citizens,...
+- [HIPAA Compliance](practices/security/hipaa-compliance.md) - Health Information Privacy
 - [Incident Response](practices/security/incident-response.md) - Security practice for assessing, protecting, or operating systems.
-- [ISO 27001 Compliance](practices/security/iso-27001-compliance.md) - Security practice for assessing, protecting, or operating systems.
-- [JWT Authentication](practices/security/jwt-authentication.md) - Security practice for assessing, protecting, or operating systems.
+- [ISO 27001 Compliance](practices/security/iso-27001-compliance.md) - ISO/IEC 27001 specifies requirements for an information security management system (ISMS).
+- [JWT Authentication](practices/security/jwt-authentication.md) - Learn about JSON Web Tokens, what are they, how they work, when and why you should use them.
 - [Network Segmentation](practices/security/network-segmentation.md) - Security practice for assessing, protecting, or operating systems.
-- [NIST Framework Compliance](practices/security/nist-framework-compliance.md) - Security practice for assessing, protecting, or operating systems.
-- [OWASP Standards & Guidelines](practices/security/owasp-standards-and-guidelines.md) - Security practice for assessing, protecting, or operating systems.
-- [PCI-DSS Compliance](practices/security/pci-dss-compliance.md) - Security practice for assessing, protecting, or operating systems.
+- [NIST Framework Compliance](practices/security/nist-framework-compliance.md) - Helping organizations to better understand and improve their management of cybersecurity risk
+- [OWASP Standards & Guidelines](practices/security/owasp-standards-and-guidelines.md) - The OWASP Top 10 is the reference standard for the most critical web application security risks. Adopting the OWASP Top 10 is perhaps the most effective first step towards...
+- [PCI-DSS Compliance](practices/security/pci-dss-compliance.md) - A global forum that brings together payments industry stakeholders to develop and drive adoption of data security standards and resources for safe payments.
 - [Penetration Testing](practices/security/penetration-testing.md) - Security practice for assessing, protecting, or operating systems.
 - [Public Key Infrastructure (PKI)](practices/security/public-key-infrastructure-pki.md) - Security practice for assessing, protecting, or operating systems.
 - [Risk Assessment](practices/security/risk-assessment.md) - Security practice for assessing, protecting, or operating systems.
@@ -184,7 +184,7 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [SBOM (SPDX)](practices/security/sbom-spdx.md) - Security practice for assessing, protecting, or operating systems.
 - [SBOM Generation & Management](practices/security/sbom-generation-and-management.md) - Security practice for assessing, protecting, or operating systems.
 - [Secrets Management](practices/security/secrets-management.md) - Security practice for assessing, protecting, or operating systems.
-- [Secure Development Lifecycle (SDL)](practices/security/secure-development-lifecycle-sdl.md) - Security practice for assessing, protecting, or operating systems.
+- [Secure Development Lifecycle (SDL)](practices/security/secure-development-lifecycle-sdl.md) - Learn about the Microsoft Security Development Lifecycle (SDL) and how it can improve software development security.
 - [Security Auditing](practices/security/security-auditing.md) - Security practice for assessing, protecting, or operating systems.
 - [Security Automation](practices/security/security-automation.md) - Security practice for assessing, protecting, or operating systems.
 - [Security Orchestration](practices/security/security-orchestration.md) - Security practice for assessing, protecting, or operating systems.
@@ -196,7 +196,7 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [Static Application Security Testing (SAST)](practices/security/static-application-security-testing-sast.md) - Security practice for assessing, protecting, or operating systems.
 - [STIG Compliance](practices/security/stig-compliance.md) - Security practice for assessing, protecting, or operating systems.
 - [System Hardening](practices/security/system-hardening.md) - Security practice for assessing, protecting, or operating systems.
-- [Threat Modeling](practices/security/threat-modeling.md) - Security practice for assessing, protecting, or operating systems.
+- [Threat Modeling](practices/security/threat-modeling.md) - Threat Modeling on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.
 - [TLS/SSL Certificate Management](practices/security/tls-ssl-certificate-management.md) - Security practice for assessing, protecting, or operating systems.
 - [Vulnerability Assessment](practices/security/vulnerability-assessment.md) - Security practice for assessing, protecting, or operating systems.
 - [Vulnerability Management](practices/security/vulnerability-management.md) - Security practice for assessing, protecting, or operating systems.
@@ -207,19 +207,19 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 
 ## Practices / Delivery
 
-- [Behavior-Driven Development (BDD)](practices/delivery/behavior-driven-development-bdd.md) - Delivery practice for planning, coordinating, or releasing software.
+- [Behavior-Driven Development (BDD)](practices/delivery/behavior-driven-development-bdd.md) - Behaviour-Driven Development (BDD) is the software development process that Cucumber was built to support.
 - [Change Management](practices/delivery/change-management.md) - Delivery practice for planning, coordinating, or releasing software.
 - [CI/CD Pipeline Management](practices/delivery/ci-cd-pipeline-management.md) - Delivery practice for planning, coordinating, or releasing software.
 - [Confluence](practices/delivery/confluence.md) - Delivery practice for planning, coordinating, or releasing software.
-- [Continuous Integration](practices/delivery/continuous-integration.md) - Delivery practice for planning, coordinating, or releasing software.
+- [Continuous Integration](practices/delivery/continuous-integration.md) - You can create custom continuous integration (CI) workflows directly in your GitHub repository with GitHub Actions.
 - [DevSecOps](practices/delivery/devsecops.md) - Delivery practice for planning, coordinating, or releasing software.
 - [Jira](practices/delivery/jira.md) - Delivery practice for planning, coordinating, or releasing software.
-- [Scrum](practices/delivery/scrum.md) - Delivery practice for planning, coordinating, or releasing software.
+- [Scrum](practices/delivery/scrum.md) - Scrum is a framework for developing and sustaining complex products. The Scrum Guide contains the official definition of Scrum as authored by Ken Schwaber and Jeff Sutherland.
 - [Spec-Driven Development (SDD)](practices/delivery/spec-driven-development-sdd.md) - Delivery practice for planning, coordinating, or releasing software.
 
 ## Practices / Engineering
 
-- [Agile Methodology](practices/engineering/agile-methodology.md) - Engineering practice for designing, building, testing, or operating software.
+- [Agile Methodology](practices/engineering/agile-methodology.md) - We are uncovering better ways of developing software by doing it and helping others do it. These are our values and principles.
 - [API Design & Development](practices/engineering/api-design-and-development.md) - Engineering practice for designing, building, testing, or operating software.
 - [BDD / Spec Testing](practices/engineering/bdd-spec-testing.md) - Engineering practice for designing, building, testing, or operating software.
 - [Code Refactoring](practices/engineering/code-refactoring.md) - Engineering practice for designing, building, testing, or operating software.
@@ -232,7 +232,7 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [Observability](practices/engineering/observability.md) - Engineering practice for designing, building, testing, or operating software.
 - [Performance Optimization](practices/engineering/performance-optimization.md) - Engineering practice for designing, building, testing, or operating software.
 - [System Monitoring & Observability](practices/engineering/system-monitoring-and-observability.md) - Engineering practice for designing, building, testing, or operating software.
-- [Test-Driven Development (TDD)](practices/engineering/test-driven-development-tdd.md) - Engineering practice for designing, building, testing, or operating software.
+- [Test-Driven Development (TDD)](practices/engineering/test-driven-development-tdd.md) - a bliki entry for Test Driven Development
 - [Unit Testing](practices/engineering/unit-testing.md) - Engineering practice for designing, building, testing, or operating software.
 
 ## Practices / AI and Machine Learning

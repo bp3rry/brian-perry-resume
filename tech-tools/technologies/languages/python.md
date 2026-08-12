@@ -1,9 +1,9 @@
 # Python
 
-Programming or scripting language used to express software and automation.
+The official home of the Python Programming Language
 
 ## Reference
 
 [Official reference](https://www.python.org/doc/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

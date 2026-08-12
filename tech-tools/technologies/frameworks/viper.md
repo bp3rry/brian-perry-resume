@@ -1,9 +1,9 @@
 # Viper
 
-Library, framework, or component used to build software systems.
+Go configuration with fangs. Contribute to spf13/viper development by creating an account on GitHub.
 
 ## Reference
 
 [Official reference](https://github.com/spf13/viper)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

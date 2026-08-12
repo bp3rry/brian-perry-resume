@@ -1,9 +1,9 @@
 # Apache Kafka
 
-Data storage, search, messaging, or event-streaming technology.
+Apache Kafka
 
 ## Reference
 
 [Official reference](https://kafka.apache.org/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

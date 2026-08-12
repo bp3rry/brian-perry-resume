@@ -36,6 +36,7 @@ tech-tools/
 ```sh
 npm run generate:tech-tools
 npm run validate:tech-tools
+npm run enrich:tech-tools
 ```
 
 Generation replaces only the generated `tools/`, `technologies/`, and
@@ -53,6 +54,16 @@ before sharing changes.
 3. Add `evidence` only for an existing, reliable public link.
 4. Add equivalent scan labels to `aliases` instead of adding duplicate entries.
 5. Regenerate and validate the site.
+
+## Refreshing Reference Descriptions
+
+`npm run enrich:tech-tools` retrieves each entry's official reference page and
+uses its description metadata, structured data, or visible page content to
+replace the inventory definition. Descriptions are capped at 180 characters
+and end in `...` when truncated. Entries without an official reference remain
+unchanged; the script reports any reference it cannot describe so it can be
+reviewed manually. Add `--strict` to make unresolved references fail the
+command.
 
 Keep the hierarchy shallow. The current categories cover tools (security,
 development, and DevOps), technologies (languages, frameworks, cloud

@@ -1,9 +1,9 @@
 # pytest
 
-Development tool that supports building, testing, or maintaining software.
+pytest development sprint , July 20th – 24th , Klaus (AT), sign-up open until June 15th
 
 ## Reference
 
 [Official reference](https://docs.pytest.org/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

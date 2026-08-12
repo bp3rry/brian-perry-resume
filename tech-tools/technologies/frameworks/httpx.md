@@ -1,9 +1,9 @@
 # HTTPX
 
-Library, framework, or component used to build software systems.
+A next-generation HTTP client for Python.
 
 ## Reference
 
 [Official reference](https://www.python-httpx.org/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12

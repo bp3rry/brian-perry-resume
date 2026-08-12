@@ -1,9 +1,9 @@
 # Behavior-Driven Development (BDD)
 
-Delivery practice for planning, coordinating, or releasing software.
+Behaviour-Driven Development (BDD) is the software development process that Cucumber was built to support.
 
 ## Reference
 
 [Official reference](https://cucumber.io/docs/bdd/)
 
-Last reviewed: 2026-08-11
+Last reviewed: 2026-08-12
