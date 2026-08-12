@@ -34,7 +34,7 @@ Senior security architect and advisor with security architecture, consulting, ma
 
 ## PROFESSIONAL QUALIFICATIONS
 - Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance
-- First Class Limited Stationary Engineer
+- First Class Limited Stationary Engineer - Critical infrastructure operation and maintenance training
 
 ## PROJECT EVIDENCE
 - [Security Engineering Automation](../projects/security-engineering-automation.md): Recent hands-on engineering work spanning vulnerability-management workflows, threat modeling, security review, and security automation.
