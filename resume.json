@@ -21,11 +21,22 @@
   },
   "work": [
     {
+      "name": "Dell EMC",
+      "position": "Senior Security Architect, Security Consultant, Product Manager",
+      "startDate": "2016",
+      "endDate": "2026",
+      "highlights": [
+        "Manage SDL assessment and compliance for multi-cloud product portfolio",
+        "Implement AI assisted security assessment and vulnerability management, automation"
+      ]
+    },
+    {
       "name": "VCE (acquired by Dell EMC)",
       "position": "Senior Security Architect, Security Consultant, Product Manager",
       "startDate": "2011",
-      "endDate": "2026",
+      "endDate": "2016",
       "highlights": [
+        "Manage SDL assessment and compliance for converged product portfolio",
         "Contributed to product design, architecture, security features, and lifecycle support.",
         "Provided pre-sales and technical sales support for Vblock systems and solutions."
       ]
