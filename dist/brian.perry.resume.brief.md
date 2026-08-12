@@ -25,7 +25,8 @@ Security automation & AI workflows | Threat & vulnerability management | App & s
 - [AI-Agent and LLM Workflows](../projects/ai-agent-workflows.md): Recent work designing and implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.
 
 ## QUALIFICATIONS
-Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance | First Class Limited Stationary Engineer - Critical infrastructure operation and maintenance training
+- Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance
+- First Class Limited Stationary Engineer - Critical infrastructure operation and maintenance training
 
 ## PORTFOLIO INDEXES
 - [Recent Projects](../projects/index.md)

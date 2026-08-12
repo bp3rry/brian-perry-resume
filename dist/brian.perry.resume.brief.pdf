@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+<< /Type /Pages /Kids [5 0 R 12 0 R] /Count 2 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -15,7 +15,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R] >>
 endobj
 6 0 obj
-<< /Length 3290 >>
+<< /Length 3220 >>
 stream
 BT /F2 18 Tf 54 738 Td (Brian Perry, AI and Cyber-Security Professional) Tj ET
 BT /F1 10 Tf 54 711 Td (Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security) Tj ET
@@ -49,14 +49,14 @@ BT /F1 10 Tf 54 244 Td (- AI-Agent and LLM Workflows: Recent work designing and)
 0.5 w 64.4 243 m 199.60000000000002 243 l S
 BT /F1 10 Tf 54 230 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
 BT /F2 11 Tf 54 197 Td (QUALIFICATIONS) Tj ET
-BT /F1 10 Tf 54 175 Td (Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance | First Class) Tj ET
-BT /F1 10 Tf 54 161 Td (Limited Stationary Engineer - Critical infrastructure operation and maintenance training) Tj ET
-BT /F2 11 Tf 54 128 Td (PORTFOLIO INDEXES) Tj ET
-BT /F1 10 Tf 54 106 Td (- Recent Projects) Tj ET
-0.5 w 64.4 105 m 142.4 105 l S
-BT /F1 10 Tf 54 91 Td (- Technologies, Tools, and Practices) Tj ET
-0.5 w 64.4 90 m 241.20000000000002 90 l S
-BT /F1 10 Tf 54 76 Td (Full evidence portfolio: https://github.com/bp3rry/brian-perry-resume) Tj ET
+BT /F1 10 Tf 54 175 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
+BT /F1 10 Tf 54 160 Td (- First Class Limited Stationary Engineer - Critical infrastructure operation and) Tj ET
+BT /F1 10 Tf 54 146 Td (maintenance training) Tj ET
+BT /F2 11 Tf 54 113 Td (PORTFOLIO INDEXES) Tj ET
+BT /F1 10 Tf 54 91 Td (- Recent Projects) Tj ET
+0.5 w 64.4 90 m 142.4 90 l S
+BT /F1 10 Tf 54 76 Td (- Technologies, Tools, and Practices) Tj ET
+0.5 w 64.4 75 m 241.20000000000002 75 l S
 endstream
 endobj
 7 0 obj
@@ -69,27 +69,38 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [64.4 242 199.60000000000002 254] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 104 142.4 116] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/index.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 89 142.4 101] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/index.md) >> >>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 89 241.20000000000002 101] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 74 241.20000000000002 86] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 100 >>
+stream
+BT /F1 10 Tf 54 738 Td (Full evidence portfolio: https://github.com/bp3rry/brian-perry-resume) Tj ET
+endstream
 endobj
 xref
-0 12
+0 14
 0000000000 65535 f
 0000000009 00000 n
 0000000058 00000 n
-0000000115 00000 n
-0000000185 00000 n
-0000000260 00000 n
-0000000438 00000 n
-0000003780 00000 n
-0000004010 00000 n
-0000004236 00000 n
-0000004453 00000 n
-0000004645 00000 n
+0000000122 00000 n
+0000000192 00000 n
+0000000267 00000 n
+0000000445 00000 n
+0000003717 00000 n
+0000003947 00000 n
+0000004173 00000 n
+0000004390 00000 n
+0000004581 00000 n
+0000004786 00000 n
+0000004924 00000 n
 trailer
-<< /Size 12 /Root 1 0 R >>
+<< /Size 14 /Root 1 0 R >>
 startxref
-4851
+5076
 %%EOF

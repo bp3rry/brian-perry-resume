@@ -78,8 +78,7 @@ function renderMinimal() {
     "## QUALIFICATIONS",
     qualifications
       .filter((qualification) => !qualification.fullOnly)
-      .map(qualificationLine)
-      .join(" | "),
+      .map((qualification) => `- ${qualificationLine(qualification)}`),
     "",
     ...portfolioIndexes(),
     "",
