@@ -98,6 +98,22 @@
   ],
   "skills": [
     {
+      "name": "Security Automation and AI Workflows",
+      "keywords": [
+        "Cognition",
+        "Windsurf",
+        "Devin CLI",
+        "GitHub Copilot CLI",
+        "MCP integration",
+        "Python",
+        "GitHub Actions",
+        "CI/CD",
+        "AI-agent design and orchestration",
+        "LLMs",
+        "AI cluster design and security"
+      ]
+    },
+    {
       "name": "Threat and Vulnerability Management",
       "keywords": [
         "Vulnerability assessment and remediation",
@@ -132,19 +148,6 @@
         "Infrastructure as code",
         "Critical-facilities risk assessment",
         "OT/SCADA security assessment"
-      ]
-    },
-    {
-      "name": "Security Automation and AI Workflows",
-      "keywords": [
-        "Python",
-        "Go",
-        "TypeScript",
-        "GitHub Actions",
-        "CI/CD",
-        "AI-agent design and orchestration",
-        "LLMs",
-        "LangChain"
       ]
     }
   ],
