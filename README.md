@@ -1,4 +1,4 @@
-# Brian Perry, Security Professional
+# Brian Perry, AI and Cyber-Security Professional
 
 Resume and Qualifications 
 - [Resume (brief)](dist/brian.perry.resume.brief.md) | [PDF](dist/brian.perry.resume.brief.pdf)

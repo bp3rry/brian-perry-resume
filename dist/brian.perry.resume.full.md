@@ -1,5 +1,4 @@
-# Brian Perry
-Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security
+# Brian Perry, AI and Cyber-Security Professional
 HazzardUS@pm.me | +1 972 836 9981 | https://github.com/bp3rry/brian-perry-resume
 
 ## SUMMARY

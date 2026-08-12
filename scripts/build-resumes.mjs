@@ -11,6 +11,10 @@ function contactLine(basics) {
   return [basics.email, basics.phone, basics.url].filter(Boolean).join(" | ");
 }
 
+function header(basics) {
+  return `# ${basics.name}, ${basics.label}`;
+}
+
 function skillsFor(names) {
   return resume.skills.filter((skill) => names.includes(skill.name));
 }
@@ -46,7 +50,7 @@ function renderMinimal() {
     profile.selectedProjectIds.includes(project.id)
   );
   return [
-    `# ${resume.basics.name}`,
+    header(resume.basics),
     profile.headline,
     contactLine(resume.basics),
     "",
@@ -76,8 +80,7 @@ function renderMinimal() {
 
 function renderFull() {
   return [
-    `# ${resume.basics.name}`,
-    resume.basics.label,
+    header(resume.basics),
     contactLine(resume.basics),
     "",
     "## SUMMARY",
