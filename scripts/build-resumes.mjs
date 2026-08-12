@@ -68,7 +68,7 @@ function renderMinimal() {
     "",
     "## SELECTED EXPERIENCE",
     ...workFor(profile.selectedEmployers).flatMap((work) => [
-      `**${work.name}** — ${work.position}`,
+      `**${work.name}** | ${work.position}${employmentDates(work)}`,
       ...work.highlights.map((highlight) => `- ${highlight}`)
     ]),
     "",

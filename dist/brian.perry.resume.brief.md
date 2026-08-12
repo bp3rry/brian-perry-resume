@@ -9,7 +9,13 @@ Cybersecurity advisor and security architect focused on AI-assisted security ris
 Security automation & AI workflows | Threat & vulnerability management | App & supply-chain security | Cloud, critical infrastructure & OT
 
 ## SELECTED EXPERIENCE
-**VCE (acquired by Dell EMC)** — Senior Security Architect, Security Consultant, Product Manager
+**Dell EMC** | Senior Security Architect, Security Consultant | 2016-2026
+- Manage SDL assessment and compliance for multi-cloud product portfolio
+- Implement AI assisted security assessment and vulnerability management, automation
+
+
+**VCE (acquired by Dell EMC)** | Senior Security Architect, Security Consultant, Product Manager | 2011-2016
+- Manage SDL assessment and compliance for converged product portfolio
 - Contributed to product design, architecture, security features, and lifecycle support.
 - Provided pre-sales and technical sales support for Vblock systems and solutions.
 
