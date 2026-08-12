@@ -1,6 +1,6 @@
 # Google Cloud Platform (GCP)
 
-Dokumentasi, panduan, dan referensi yang komprehensif untuk produk dan layanan Google Cloud.
+Comprehensive documentation, guides, and resources for Google Cloud products and services.
 
 ## Reference
 

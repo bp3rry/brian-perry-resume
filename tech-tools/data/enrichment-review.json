@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "summary": {
+    "total": 54,
+    "p0": 1,
+    "p1": 0,
+    "p2": 53
+  },
+  "entries": [
+    {
+      "name": "ISO 27001 Compliance",
+      "category": "practices/security",
+      "priority": "P0",
+      "status": "reference-unavailable",
+      "reference": "https://www.iso.org/standard/27001",
+      "action": "Replace or troubleshoot the official description source.",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Access Control Management",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Attack Surface Management",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Cloud Security",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Compliance Auditing",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Container Security Scanning",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "CVE Vulnerability Management",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Dependency Scanning",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Disaster Recovery Planning",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Dynamic Application Security Testing (DAST)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "EDR (Endpoint Detection & Response)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Encryption & Cryptography",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Incident Response",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Network Segmentation",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Penetration Testing",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Public Key Infrastructure (PKI)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Risk Assessment",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Role-Based Access Control (RBAC)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "SBOM (SPDX)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "SBOM Generation & Management",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Secrets Management",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Security Auditing",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Security Automation",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Security Orchestration",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Security Policy Documentation",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Security Review",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "SIEM (Security Information & Event Management)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Software Composition Analysis (SCA)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Software Supply Chain Security",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Static Application Security Testing (SAST)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "STIG Compliance",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "System Hardening",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "TLS/SSL Certificate Management",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Vulnerability Assessment",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Vulnerability Management",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Vulnerability Remediation",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Vulnerability Scanning",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Web Application Firewall (WAF)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "XDR (Extended Detection & Response)",
+      "category": "practices/security",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Nutanix",
+      "category": "technologies/cloud-infrastructure",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Red Hat OpenShift",
+      "category": "technologies/cloud-infrastructure",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "VMware vSphere",
+      "category": "technologies/cloud-infrastructure",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "aiohttp",
+      "category": "technologies/frameworks",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Cryptography Library",
+      "category": "technologies/frameworks",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Docker SDK",
+      "category": "technologies/frameworks",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Rich",
+      "category": "technologies/frameworks",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "PowerShell",
+      "category": "technologies/languages",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "SQL",
+      "category": "technologies/languages",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "TypeScript (React/TSX)",
+      "category": "technologies/languages",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Cognition Devin",
+      "category": "tools/development",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Flake8",
+      "category": "tools/development",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "Mocha",
+      "category": "tools/development",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "mypy",
+      "category": "tools/development",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    },
+    {
+      "name": "tox",
+      "category": "tools/development",
+      "priority": "P2",
+      "status": "missing-reference",
+      "action": "Add an official HTTPS reference before enriching this entry.",
+      "reason": "The entry still has a generic definition and no official reference."
+    }
+  ]
+}

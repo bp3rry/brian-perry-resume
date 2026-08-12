@@ -24,6 +24,7 @@ function validate(inventory) {
     if (locations.has(location)) throw new Error(`Duplicate page location: ${location}`);
     if (names.has(entry.name)) throw new Error(`Duplicate entry name: ${entry.name}`);
     if (entry.reference && !/^https:\/\//.test(entry.reference)) throw new Error(`Reference must be an HTTPS URL: ${entry.name}`);
+    if (entry.descriptionReference && !/^https:\/\//.test(entry.descriptionReference)) throw new Error(`Description reference must be an HTTPS URL: ${entry.name}`);
     locations.add(location); names.add(entry.name);
   }
 }

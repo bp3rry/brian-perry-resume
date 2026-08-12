@@ -1,6 +1,6 @@
 # Playwright
 
-Your Docusaurus site did not load properly.
+A very common reason is a wrong site baseUrl configuration .
 
 ## Reference
 

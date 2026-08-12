@@ -1,6 +1,6 @@
 # Go
 
-Stories about how and why companies use Go
+Common problems companies solve with Go
 
 ## Reference
 

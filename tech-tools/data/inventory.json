@@ -161,7 +161,8 @@
     {
       "name": "Cognition",
       "category": "tools/development",
-      "definition": "Development tool that supports building, testing, or maintaining software.",
+      "definition": "Cognition operates Devin, the first autonomous software engineer. Devin plans, writes, tests, and ships production code inside your existing workflows.",
+      "reference": "https://www.cognition.ai/",
       "aliases": [
         "Cognition (AI Agent Platform)"
       ]
@@ -216,8 +217,9 @@
     {
       "name": "Cypress",
       "category": "tools/development",
-      "definition": "Your Docusaurus site did not load properly.",
-      "reference": "https://docs.cypress.io/"
+      "definition": "Simplify front-end testing with Cypress' open-source app. Explore our versatile testing frameworks for browser-based applications and components.",
+      "reference": "https://docs.cypress.io/",
+      "descriptionReference": "https://www.cypress.io/"
     },
     {
       "name": "ESLint",
@@ -244,7 +246,7 @@
     {
       "name": "Playwright",
       "category": "tools/development",
-      "definition": "Your Docusaurus site did not load properly.",
+      "definition": "A very common reason is a wrong site baseUrl configuration .",
       "reference": "https://playwright.dev/"
     },
     {
@@ -284,7 +286,7 @@
     {
       "name": "pytest",
       "category": "tools/development",
-      "definition": "pytest development sprint , July 20th – 24th , Klaus (AT), sign-up open until June 15th",
+      "definition": "Next Open Trainings and Events",
       "reference": "https://docs.pytest.org/"
     },
     {
@@ -342,7 +344,7 @@
     {
       "name": "Go",
       "category": "technologies/languages",
-      "definition": "Stories about how and why companies use Go",
+      "definition": "Common problems companies solve with Go",
       "reference": "https://go.dev/doc/"
     },
     {
@@ -508,7 +510,7 @@
     {
       "name": "NumPy",
       "category": "technologies/frameworks",
-      "definition": "NumPy 2.5 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]",
+      "definition": "Latest (development) documentation",
       "reference": "https://numpy.org/doc/"
     },
     {
@@ -572,7 +574,7 @@
     {
       "name": "requests",
       "category": "technologies/frameworks",
-      "definition": "Requests is an elegant and simple HTTP library for Python, built for human beings.",
+      "definition": "Release v2.34.2. ( Installation )",
       "reference": "https://requests.readthedocs.io/"
     },
     {
@@ -611,13 +613,13 @@
     {
       "name": "Cloudflare",
       "category": "technologies/cloud-infrastructure",
-      "definition": "Welcome to Cloudflare - Powering the next generation of applications",
+      "definition": "(function () { if (typeof window === 'undefined') return; var shouldSkipVideo = false; var connection = null; try { connection = navigator.connection || navigator.mozConnection...",
       "reference": "https://www.cloudflare.com/"
     },
     {
       "name": "Google Cloud Platform (GCP)",
       "category": "technologies/cloud-infrastructure",
-      "definition": "Dokumentasi, panduan, dan referensi yang komprehensif untuk produk dan layanan Google Cloud.",
+      "definition": "Comprehensive documentation, guides, and resources for Google Cloud products and services.",
       "reference": "https://cloud.google.com/docs"
     },
     {
@@ -673,7 +675,7 @@
     {
       "name": "Apache Kafka",
       "category": "technologies/data-databases",
-      "definition": "Apache Kafka",
+      "definition": "Learn More Download More than 80% of all Fortune 100 companies trust, and use Apache Kafka.",
       "reference": "https://kafka.apache.org/",
       "aliases": [
         "Apache Kafka (Event Streaming)"

@@ -11,7 +11,8 @@
     "render": "node scripts/render-resumes.mjs",
     "generate:tech-tools": "node scripts/generate-tech-tools.mjs",
     "render:tech-tools": "node scripts/generate-tech-tools.mjs",
-    "enrich:tech-tools": "node scripts/enrich-tech-tool-descriptions.mjs"
+    "enrich:tech-tools": "node scripts/enrich-tech-tool-descriptions.mjs",
+    "refresh:tech-tools": "npm run enrich:tech-tools && npm run generate:tech-tools && npm run validate:tech-tools"
   },
   "keywords": [],
   "author": "Brian Perry",

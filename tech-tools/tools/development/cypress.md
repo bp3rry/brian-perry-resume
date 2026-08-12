@@ -1,6 +1,6 @@
 # Cypress
 
-Your Docusaurus site did not load properly.
+Simplify front-end testing with Cypress' open-source app. Explore our versatile testing frameworks for browser-based applications and components.
 
 ## Reference
 

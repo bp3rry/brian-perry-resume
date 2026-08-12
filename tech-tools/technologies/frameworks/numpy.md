@@ -1,6 +1,6 @@
 # NumPy
 
-NumPy 2.5 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]
+Latest (development) documentation
 
 ## Reference
 

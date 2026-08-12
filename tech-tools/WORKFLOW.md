@@ -37,6 +37,7 @@ tech-tools/
 npm run generate:tech-tools
 npm run validate:tech-tools
 npm run enrich:tech-tools
+npm run refresh:tech-tools
 ```
 
 Generation replaces only the generated `tools/`, `technologies/`, and
@@ -50,7 +51,8 @@ before sharing changes.
 1. Add one entry to `entries` with a stable `name`, one `category`, and a
    one-line `definition`.
 2. Use an HTTPS official URL in `reference` only when it is confidently known;
-   omit it otherwise.
+   add `descriptionReference` when a different official page provides a better
+   extractable description.
 3. Add `evidence` only for an existing, reliable public link.
 4. Add equivalent scan labels to `aliases` instead of adding duplicate entries.
 5. Regenerate and validate the site.
@@ -62,8 +64,16 @@ uses its description metadata, structured data, or visible page content to
 replace the inventory definition. Descriptions are capped at 180 characters
 and end in `...` when truncated. Entries without an official reference remain
 unchanged; the script reports any reference it cannot describe so it can be
-reviewed manually. Add `--strict` to make unresolved references fail the
-command.
+reviewed manually. Known error and bot-challenge messages are rejected rather
+than saved as descriptions. Add `--strict` to make unresolved references fail
+the command. See [ENRICHMENT-PLAN.md](ENRICHMENT-PLAN.md) for the reusable
+workflow and quality gates.
+
+`npm run refresh:tech-tools` is the full maintenance harness. It enriches the
+inventory, rebuilds the generated pages, and validates the result. Each
+enrichment run writes `tech-tools/data/enrichment-review.json`, a prioritized
+queue for broken references (P0), generic descriptions with a reference (P1),
+and generic descriptions that need an official reference (P2).
 
 Keep the hierarchy shallow. The current categories cover tools (security,
 development, and DevOps), technologies (languages, frameworks, cloud

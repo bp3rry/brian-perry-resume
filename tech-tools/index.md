@@ -25,9 +25,9 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [Anthropic Claude](tools/development/anthropic-claude.md) - Claude API Documentation
 - [BeautifulSoup](tools/development/beautifulsoup.md) - Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and...
 - [Black](tools/development/black.md) - The uncompromising code formatter ¶ “Any color you like.”
-- [Cognition](tools/development/cognition.md) - Development tool that supports building, testing, or maintaining software.
+- [Cognition](tools/development/cognition.md) - Cognition operates Devin, the first autonomous software engineer. Devin plans, writes, tests, and ships production code inside your existing workflows.
 - [Cognition Devin](tools/development/cognition-devin.md) - Development tool that supports building, testing, or maintaining software.
-- [Cypress](tools/development/cypress.md) - Your Docusaurus site did not load properly.
+- [Cypress](tools/development/cypress.md) - Simplify front-end testing with Cypress' open-source app. Explore our versatile testing frameworks for browser-based applications and components.
 - [ESLint](tools/development/eslint.md) - A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
 - [Flake8](tools/development/flake8.md) - Development tool that supports building, testing, or maintaining software.
 - [GitHub Copilot](tools/development/github-copilot.md) - You can use GitHub Copilot to enhance your productivity and assist as you work on code.
@@ -36,9 +36,9 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [Mocha](tools/development/mocha.md) - Development tool that supports building, testing, or maintaining software.
 - [mypy](tools/development/mypy.md) - Development tool that supports building, testing, or maintaining software.
 - [OpenAI API / GPT](tools/development/openai-api-gpt.md) - API Reference Introduction API Overview Use this reference to look up OpenAI API endpoints, request and response schemas, streaming events, client library methods, and shared...
-- [Playwright](tools/development/playwright.md) - Your Docusaurus site did not load properly.
+- [Playwright](tools/development/playwright.md) - A very common reason is a wrong site baseUrl configuration .
 - [Prettier](tools/development/prettier.md) - On this page What is Prettier? Prettier is an opinionated code formatter with support for:
-- [pytest](tools/development/pytest.md) - pytest development sprint , July 20th – 24th , Klaus (AT), sign-up open until June 15th
+- [pytest](tools/development/pytest.md) - Next Open Trainings and Events
 - [React Testing Library](tools/development/react-testing-library.md) - React Testing Library builds on top of DOM Testing Library by adding
 - [Ruff](tools/development/ruff.md) - An extremely fast Python linter and code formatter, written in Rust.
 - [tox](tools/development/tox.md) - Development tool that supports building, testing, or maintaining software.
@@ -57,7 +57,7 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 
 - [Bash / Shell Scripting](technologies/languages/bash-shell-scripting.md) - GNU Operating System Supported by the Free Software Foundation
 - [C#](technologies/languages/c.md) - The C# guide has everything you need to learn C# and get started writing .NET apps. Learn C# programming - for beginning developers, developers new to C#, and experienced C# /...
-- [Go](technologies/languages/go.md) - Stories about how and why companies use Go
+- [Go](technologies/languages/go.md) - Common problems companies solve with Go
 - [Groovy](technologies/languages/groovy.md) - You are using an outdated browser. Please upgrade your browser to improve your experience.
 - [HCL](technologies/languages/hcl.md) - Key constructs of the native Terraform language syntax, including identifiers, arguments, blocks, and comments.
 - [JavaScript](technologies/languages/javascript.md) - JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language...
@@ -88,13 +88,13 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [Kubernetes SDK](technologies/frameworks/kubernetes-sdk.md) - This page contains an overview of the client libraries for using the Kubernetes API from various programming languages. To write applications using the Kubernetes REST API, you...
 - [LangChain](technologies/frameworks/langchain.md) - LangChain provides create_agent: a minimal, highly configurable agent harness. Compose exactly the agent your use case needs from model, tools, prompt, and middleware.
 - [Logrus](technologies/frameworks/logrus.md) - Structured, pluggable logging for Go. Contribute to sirupsen/logrus development by creating an account on GitHub.
-- [NumPy](technologies/frameworks/numpy.md) - NumPy 2.5 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]
+- [NumPy](technologies/frameworks/numpy.md) - Latest (development) documentation
 - [pandas](technologies/frameworks/pandas.md) - pandas documentation # Date : Jul 22, 2026 Version : 3.0.5
 - [Paramiko](technologies/frameworks/paramiko.md) - Paramiko is a pure-Python [ 1 ] implementation of the SSHv2 protocol [ 2 ] , providing both client and server functionality. It provides the foundation for the high-level SSH...
 - [Prometheus Client (Go)](technologies/frameworks/prometheus-client-go.md) - Package prometheus is the core instrumentation package.
 - [Pydantic](technologies/frameworks/pydantic.md) - Documentation for the Pydantic stack. Validate data with Pydantic Validation, build production AI agents with Pydantic AI, and monitor LLM calls, agent behavior, and costs with...
 - [React](technologies/frameworks/react.md) - React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you...
-- [requests](technologies/frameworks/requests.md) - Requests is an elegant and simple HTTP library for Python, built for human beings.
+- [requests](technologies/frameworks/requests.md) - Release v2.34.2. ( Installation )
 - [Rich](technologies/frameworks/rich.md) - Library, framework, or component used to build software systems.
 - [Testify](technologies/frameworks/testify.md) - A toolkit with common assertions and mocks that plays nicely with the standard library - stretchr/testify
 - [Viper](technologies/frameworks/viper.md) - Go configuration with fangs. Contribute to spf13/viper development by creating an account on GitHub.
@@ -108,8 +108,8 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 - [AWS EC2](technologies/cloud-infrastructure/aws-ec2.md) - Amazon EC2 Amazon EC2 User Guide Describes key concepts for Amazon EC2 and provides instructions for how to configure and use Amazon EC2 features.
 - [AWS Lambda (Serverless)](technologies/cloud-infrastructure/aws-lambda-serverless.md) - Lambda guides and references Developer Guide Provides a conceptual overview of AWS Lambda, detailed instructions for using the various features, and a complete API reference...
 - [AWS S3](technologies/cloud-infrastructure/aws-s3.md) - Store data in the cloud and learn the core concepts of buckets and objects with the Amazon S3 web service.
-- [Cloudflare](technologies/cloud-infrastructure/cloudflare.md) - Welcome to Cloudflare - Powering the next generation of applications
-- [Google Cloud Platform (GCP)](technologies/cloud-infrastructure/google-cloud-platform-gcp.md) - Dokumentasi, panduan, dan referensi yang komprehensif untuk produk dan layanan Google Cloud.
+- [Cloudflare](technologies/cloud-infrastructure/cloudflare.md) - (function () { if (typeof window === 'undefined') return; var shouldSkipVideo = false; var connection = null; try { connection = navigator.connection || navigator.mozConnection...
+- [Google Cloud Platform (GCP)](technologies/cloud-infrastructure/google-cloud-platform-gcp.md) - Comprehensive documentation, guides, and resources for Google Cloud products and services.
 - [Kubernetes](technologies/cloud-infrastructure/kubernetes.md) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted...
 - [Microsoft Azure](technologies/cloud-infrastructure/microsoft-azure.md) - Learn how to build and manage powerful applications using Microsoft Azure cloud services. Get documentation, example code, tutorials, and more.
 - [Nutanix](technologies/cloud-infrastructure/nutanix.md) - Cloud or infrastructure technology for operating applications and services.
@@ -121,7 +121,7 @@ Listed entries document recent hands-on use from an AI-generated scan of project
 ## Technologies / Data and Databases
 
 - [Apache Cassandra](technologies/data-databases/apache-cassandra.md) - Data storage, search, messaging, or event-streaming technology.
-- [Apache Kafka](technologies/data-databases/apache-kafka.md) - Apache Kafka
+- [Apache Kafka](technologies/data-databases/apache-kafka.md) - Learn More Download More than 80% of all Fortune 100 companies trust, and use Apache Kafka.
 - [AWS DynamoDB](technologies/data-databases/aws-dynamodb.md) - Use DynamoDB, a fully managed NoSQL database service to store and retrieve any amount of data, and serve any level of request traffic.
 - [Elasticsearch](technologies/data-databases/elasticsearch.md) - Welcome to the docs that cover all changes in Elastic Stack 8.19 and earlier. To view the docs for the latest Elastic product versions, including Elastic Stack 9.1 and Elastic...
 - [InfluxDB](technologies/data-databases/influxdb.md) - Data storage, search, messaging, or event-streaming technology.

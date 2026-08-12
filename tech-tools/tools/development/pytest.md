@@ -1,6 +1,6 @@
 # pytest
 
-pytest development sprint , July 20th – 24th , Klaus (AT), sign-up open until June 15th
+Next Open Trainings and Events
 
 ## Reference
 
