@@ -2,7 +2,7 @@
 HazzardUS@pm.me | +1 972 836 9981 | https://github.com/bp3rry/brian-perry-resume
 
 ## SUMMARY
-Senior security architect and advisor with security architecture, consulting, managed security services, and technical sales-support experience. Current hands-on work spans AI-assisted security risk assessment, security automation, application and software supply-chain security, cloud and infrastructure security, and AI-agent workflows.
+Senior security architect and AI security advisor with security consulting, managed security services, and technical sales-support experience. Current hands-on work spans AI-assisted security risk assessment, security automation, application and software supply-chain security, cloud and infrastructure security, and AI-agent workflows.
 
 ## EXPERIENCE
 **VCE (acquired by Dell EMC)** | Senior Security Architect, Security Consultant, Product Manager | 2011-07-Present
