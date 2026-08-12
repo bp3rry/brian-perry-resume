@@ -3,10 +3,10 @@ Cybersecurity Advisor | Threat Management | Cloud and Enterprise Security
 HazzardUS@pm.me | +1 972 836 9981 | https://github.com/bp3rry/brian-perry-resume
 
 ## SUMMARY
-Cybersecurity advisor and security architect focused on threat management, cloud and enterprise security, security automation, and critical infrastructure.
+Cybersecurity advisor and security architect focused on AI-assisted security risk assessment, threat management, cloud and enterprise security, security automation, and critical infrastructure.
 
 ## FOCUS
-Threat & vulnerability management | App & supply-chain security | Cloud, critical infrastructure & OT | Security automation & AI workflows
+Security automation & AI workflows | Threat & vulnerability management | App & supply-chain security | Cloud, critical infrastructure & OT
 
 ## SELECTED EXPERIENCE
 **VCE (acquired by Dell EMC)** — Senior Security Architect, Security Consultant, Product Manager
