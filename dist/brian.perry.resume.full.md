@@ -22,8 +22,14 @@ Senior security architect and advisor with security architecture, consulting, ma
 **netForensics** | Senior Security Engineer, Regional Manager | 2001-10-2002-05
 - Delivered pre- and post-sales implementation, technical engineering, and support for SIEM solutions.
 
-**Affiliated Computer Services** | Field Services Engineer and Delivery Manager | 1995-12-2001-10
+**Affiliated Computer Services** | Field Services Engineer and Delivery Manager
 - Provided security consulting, intrusion detection, incident response, and service-delivery support.
+
+**Digicorp** | Field Services Engineer and Delivery Manager
+- Provided network and system engineering services to clients such as Rockwell Aerospace/NASA and large oil-and-gas clients.
+
+**Southwestern Office Systems** | Field Services Engineer and Delivery Manager
+- Provided network and system engineering services to clients such as Rockwell Aerospace/NASA and large oil-and-gas clients.
 
 ## SKILLS
 **Threat and Vulnerability Management:** Vulnerability assessment and remediation, Attack surface management, CVE management, Threat modeling, Incident response, SIEM, XDR/EDR

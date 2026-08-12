@@ -70,9 +70,22 @@
       "name": "Affiliated Computer Services",
       "position": "Field Services Engineer and Delivery Manager",
       "startDate": "1995-12",
-      "endDate": "2001-10",
       "highlights": [
         "Provided security consulting, intrusion detection, incident response, and service-delivery support."
+      ]
+    },
+    {
+      "name": "Digicorp",
+      "position": "Field Services Engineer and Delivery Manager",
+      "highlights": [
+        "Provided network and system engineering services to clients such as Rockwell Aerospace/NASA and large oil-and-gas clients."
+      ]
+    },
+    {
+      "name": "Southwestern Office Systems",
+      "position": "Field Services Engineer and Delivery Manager",
+      "highlights": [
+        "Provided network and system engineering services to clients such as Rockwell Aerospace/NASA and large oil-and-gas clients."
       ]
     }
   ],
