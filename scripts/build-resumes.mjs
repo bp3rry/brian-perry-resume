@@ -23,6 +23,18 @@ function projectLine(project) {
   return `- [${project.title}](../${project.card}): ${project.summary}`;
 }
 
+function projectIndexLine(project) {
+  return `- [${project.title}](${project.card.replace(/^projects\//, "")}) — ${project.summary}\n  - Capabilities: ${project.capabilities.join(", ")}`;
+}
+
+function portfolioIndexes() {
+  return [
+    "## PORTFOLIO INDEXES",
+    "- [Recent Projects](../projects/index.md)",
+    "- [Technologies, Tools, and Practices](../tech-tools/index.md)"
+  ];
+}
+
 function qualificationLine(qualification) {
   return qualification.issuer
     ? `${qualification.name} — ${qualification.issuer}`
@@ -56,6 +68,8 @@ function renderMinimal() {
     "## QUALIFICATIONS",
     qualifications.map(qualificationLine).join(" | "),
     "",
+    ...portfolioIndexes(),
+    "",
     `Full evidence portfolio: ${profile.portfolioUrl}`
   ].filter((line, index, lines) => line || lines[index - 1] !== "").join("\n");
 }
@@ -83,13 +97,30 @@ function renderFull() {
     ...qualifications.map((qualification) => `- ${qualificationLine(qualification)}`),
     "",
     "## PROJECT EVIDENCE",
-    ...projectEvidence.map(projectLine)
+    ...projectEvidence.map(projectLine),
+    "",
+    ...portfolioIndexes()
   ].filter((line, index, lines) => line || lines[index - 1] !== "").join("\n");
 }
 
-await mkdir(new URL("dist/", root), { recursive: true });
+function renderProjectIndex() {
+  return [
+    "# Recent Projects",
+    "",
+    "Recent public project evidence, maintained from `data/project-evidence.json`.",
+    "",
+    ...projectEvidence.map(projectIndexLine),
+    ""
+  ].join("\n");
+}
+
+await Promise.all([
+  mkdir(new URL("dist/", root), { recursive: true }),
+  mkdir(new URL("projects/", root), { recursive: true })
+]);
 await Promise.all([
   writeFile(new URL("dist/brian.perry.resume.brief.md", root), `${renderMinimal()}\n`),
-  writeFile(new URL("dist/brian.perry.resume.full.md", root), `${renderFull()}\n`)
+  writeFile(new URL("dist/brian.perry.resume.full.md", root), `${renderFull()}\n`),
+  writeFile(new URL("projects/index.md", root), renderProjectIndex())
 ]);
-console.log("Generated Markdown resume drafts.");
+console.log("Generated Markdown resume drafts and project index.");

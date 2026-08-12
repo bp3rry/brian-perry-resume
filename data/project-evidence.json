@@ -67,5 +67,22 @@
     "summary": "Recent hands-on development of a web- and Python CLI-based security-assessment application that orchestrates security tools to assess systems and applications and produce remediation-oriented reports.",
     "evidence": [],
     "card": "projects/necessity-ai-assisted-security-assessment.md"
+  },
+  {
+    "id": "brian-perry-resume",
+    "title": "brian-perry-resume",
+    "status": "public-summary-ready",
+    "capabilities": [
+      "AI-assisted engineering",
+      "GitHub Copilot CLI",
+      "GPT-5.6 Terra",
+      "Node.js",
+      "Markdown",
+      "JSON Resume",
+      "Git"
+    ],
+    "summary": "Ongoing maintenance of a public resume and evidence portfolio using AI-assisted workflows, source-based technology descriptions, generated indexes, and validation.",
+    "evidence": [],
+    "card": "projects/brian-perry-resume.md"
   }
 ]

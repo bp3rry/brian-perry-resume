@@ -34,13 +34,15 @@ Senior security architect and advisor with security architecture, consulting, ma
 
 ## PROFESSIONAL QUALIFICATIONS
 - Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance
-- Class 1 Stationary Engineer - Houston Community College - BOMA/BOMI program,
-includes HVAC, mechanical, electrical engineering, plant operation, critical infrastructure operation and maintenance, security, safety skills training.
+- First Class Limited Stationary Engineer
 
 ## PROJECT EVIDENCE
 - [Security Engineering Automation](../projects/security-engineering-automation.md): Recent hands-on engineering work spanning vulnerability-management workflows, threat modeling, security review, and security automation.
 - [Cloud and DevSecOps Engineering](../projects/cloud-devsecops-engineering.md): Recent implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and security-scanning practices.
 - [AI-Agent and LLM Workflows](../projects/ai-agent-workflows.md): Recent work designing and implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.
-- [Necessity](../projects/necessity-ai-assisted-security-assessment.md): Recent hands-on development of an AI-assisted web- and Python CLI-based security-assessment application that orchestrates security tools and produces remediation-oriented reports.
+- [Necessity: AI-Assisted Security Assessment](../projects/necessity-ai-assisted-security-assessment.md): Recent hands-on development of a web- and Python CLI-based security-assessment application that orchestrates security tools to assess systems and applications and produce remediation-oriented reports.
+- [brian-perry-resume](../projects/brian-perry-resume.md): Ongoing maintenance of a public resume and evidence portfolio using AI-assisted workflows, source-based technology descriptions, generated indexes, and validation.
 
-Technology and tools: [tech-tools](../tech-tools/index.md)
+## PORTFOLIO INDEXES
+- [Recent Projects](../projects/index.md)
+- [Technologies, Tools, and Practices](../tech-tools/index.md)
