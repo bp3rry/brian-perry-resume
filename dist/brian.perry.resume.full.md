@@ -26,7 +26,7 @@ Senior security architect and AI security advisor with security consulting, mana
 - Provided network and system engineering services to clients such as Rockwell Aerospace/NASA and large oil-and-gas clients.
 
 **Southwestern Office Systems** | Field Services Engineer and Delivery Manager
-- Provided network and system engineering services to clients such as Rockwell Aerospace/NASA and large oil-and-gas clients.
+- Provided network and system engineering and sales support for SMB clients.
 
 ## SKILLS
 - **Security Automation and AI Workflows:** Cognition, Windsurf, Devin CLI, GitHub Copilot CLI, MCP integration, Python, GitHub Actions, CI/CD, AI-agent design and orchestration, LLMs, AI cluster design and security
