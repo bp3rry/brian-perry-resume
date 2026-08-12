@@ -19,7 +19,8 @@ Threat & vulnerability management | App & supply-chain security | Cloud, critica
 - [AI-Agent and LLM Workflows](../projects/ai-agent-workflows.md): Recent work designing and implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.
 
 ## QUALIFICATIONS
-Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance | First Class Limited Stationary Engineer
+Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance  
+Class 1 Limited Stationary Engineer - Critical infrastructure operation and maintenance
 
 Technology and tools: [tech-tools](../tech-tools/index.md)
 
