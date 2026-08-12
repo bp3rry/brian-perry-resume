@@ -10,13 +10,13 @@ Senior security architect and AI security advisor with security consulting, mana
 - Provided pre-sales and technical sales support for Vblock systems and solutions.
 
 
-**Anthelio Healthcare Solutions (formerly PHNS)** | Senior Director of Information Security, Global Information Security Officer, Practice Manager - Managed Security Services | 2002-10-2011-07
+**Anthelio Healthcare Solutions (formerly PHNS)** | Senior Director of Information Security, Global Information Security Officer, Practice Manager - Managed Security Services | 2002-2011
 - Managed Managed Security Services with P&L responsibility of $2.5M.
 
-**Citadel Security** | Senior Security Engineer, Vulnerability/Remediation Researcher | 2002-05-2002-10
+**Citadel Security** | Senior Security Engineer, Vulnerability/Remediation Researcher | 2002
 - Delivered pre- and post-sales implementation, technical engineering, and support for an automated vulnerability-remediation solution.
 
-**netForensics** | Senior Security Engineer, Regional Manager | 2001-10-2002-05
+**netForensics** | Senior Security Engineer, Regional Manager | 2001-2002
 - Delivered pre- and post-sales implementation, technical engineering, and support for SIEM solutions.
 
 **Affiliated Computer Services** | Field Services Engineer and Delivery Manager

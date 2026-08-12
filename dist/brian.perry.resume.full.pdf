@@ -15,7 +15,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 3857 >>
+<< /Length 3913 >>
 stream
 BT /F2 18 Tf 54 738 Td (Brian Perry, AI and Cyber-Security Professional) Tj ET
 BT /F1 10 Tf 54 711 Td (HazzardUS@pm.me | +1 972 836 9981 | https://github.com/bp3rry/brian-perry-resume) Tj ET
@@ -31,92 +31,91 @@ BT /F1 10 Tf 54 530 Td (- Contributed to product design, architecture, security 
 BT /F1 10 Tf 54 515 Td (- Provided pre-sales and technical sales support for Vblock systems and solutions.) Tj ET
 BT /F2 10 Tf 54 500 Td (Anthelio Healthcare Solutions \(formerly PHNS\)) Tj /F1 10 Tf ( | Senior Director of Information Security,) Tj ET
 BT /F1 10 Tf 54 486 Td (Global Information Security Officer, Practice Manager - Managed Security Services |) Tj ET
-BT /F1 10 Tf 54 472 Td (2002-10-2011-07) Tj ET
+BT /F1 10 Tf 54 472 Td (2002-2011) Tj ET
 BT /F1 10 Tf 54 457 Td (- Managed Managed Security Services with P&L responsibility of $2.5M.) Tj ET
-BT /F2 10 Tf 54 442 Td (Citadel Security) Tj /F1 10 Tf ( | Senior Security Engineer, Vulnerability/Remediation Researcher |) Tj ET
-BT /F1 10 Tf 54 428 Td (2002-05-2002-10) Tj ET
-BT /F1 10 Tf 54 413 Td (- Delivered pre- and post-sales implementation, technical engineering, and support for an) Tj ET
-BT /F1 10 Tf 54 399 Td (automated vulnerability-remediation solution.) Tj ET
-BT /F2 10 Tf 54 384 Td (netForensics) Tj /F1 10 Tf ( | Senior Security Engineer, Regional Manager | 2001-10-2002-05) Tj ET
-BT /F1 10 Tf 54 369 Td (- Delivered pre- and post-sales implementation, technical engineering, and support for SIEM) Tj ET
-BT /F1 10 Tf 54 355 Td (solutions.) Tj ET
-BT /F2 10 Tf 54 340 Td (Affiliated Computer Services) Tj /F1 10 Tf ( | Field Services Engineer and Delivery Manager) Tj ET
-BT /F1 10 Tf 54 325 Td (- Provided security consulting, intrusion detection, incident response, and service-delivery) Tj ET
-BT /F1 10 Tf 54 311 Td (support.) Tj ET
-BT /F2 10 Tf 54 296 Td (Digicorp) Tj /F1 10 Tf ( | Field Services Engineer and Delivery Manager) Tj ET
-BT /F1 10 Tf 54 281 Td (- Provided network and system engineering services to clients such as Rockwell) Tj ET
-BT /F1 10 Tf 54 267 Td (Aerospace/NASA and large oil-and-gas clients.) Tj ET
-BT /F2 10 Tf 54 252 Td (Southwestern Office Systems) Tj /F1 10 Tf ( | Field Services Engineer and Delivery Manager) Tj ET
-BT /F1 10 Tf 54 237 Td (- Provided network and system engineering services to clients such as Rockwell) Tj ET
-BT /F1 10 Tf 54 223 Td (Aerospace/NASA and large oil-and-gas clients.) Tj ET
-BT /F2 11 Tf 54 190 Td (SKILLS) Tj ET
-BT /F1 10 Tf 54 168 Td (- Security Automation and AI Workflows: Cognition, Windsurf, Devin CLI, GitHub Copilot) Tj ET
-BT /F1 10 Tf 54 154 Td (CLI, MCP integration, Python, GitHub Actions, CI/CD, AI-agent design and orchestration,) Tj ET
-BT /F1 10 Tf 54 140 Td (LLMs, AI cluster design and security) Tj ET
-BT /F1 10 Tf 54 125 Td (- Threat and Vulnerability Management: Vulnerability assessment and remediation, Attack) Tj ET
-BT /F1 10 Tf 54 111 Td (surface management, CVE management, Threat modeling, Incident response, SIEM, XDR/EDR) Tj ET
-BT /F1 10 Tf 54 96 Td (- Application and Supply-Chain Security: SAST, SCA, DAST, SBOM/SPDX, Dependency) Tj ET
-BT /F1 10 Tf 54 82 Td (scanning, Container scanning, OWASP) Tj ET
+BT /F2 10 Tf 54 442 Td (Citadel Security) Tj /F1 10 Tf ( | Senior Security Engineer, Vulnerability/Remediation Researcher | 2002) Tj ET
+BT /F1 10 Tf 54 427 Td (- Delivered pre- and post-sales implementation, technical engineering, and support for an) Tj ET
+BT /F1 10 Tf 54 413 Td (automated vulnerability-remediation solution.) Tj ET
+BT /F2 10 Tf 54 398 Td (netForensics) Tj /F1 10 Tf ( | Senior Security Engineer, Regional Manager | 2001-2002) Tj ET
+BT /F1 10 Tf 54 383 Td (- Delivered pre- and post-sales implementation, technical engineering, and support for SIEM) Tj ET
+BT /F1 10 Tf 54 369 Td (solutions.) Tj ET
+BT /F2 10 Tf 54 354 Td (Affiliated Computer Services) Tj /F1 10 Tf ( | Field Services Engineer and Delivery Manager) Tj ET
+BT /F1 10 Tf 54 339 Td (- Provided security consulting, intrusion detection, incident response, and service-delivery) Tj ET
+BT /F1 10 Tf 54 325 Td (support.) Tj ET
+BT /F2 10 Tf 54 310 Td (Digicorp) Tj /F1 10 Tf ( | Field Services Engineer and Delivery Manager) Tj ET
+BT /F1 10 Tf 54 295 Td (- Provided network and system engineering services to clients such as Rockwell) Tj ET
+BT /F1 10 Tf 54 281 Td (Aerospace/NASA and large oil-and-gas clients.) Tj ET
+BT /F2 10 Tf 54 266 Td (Southwestern Office Systems) Tj /F1 10 Tf ( | Field Services Engineer and Delivery Manager) Tj ET
+BT /F1 10 Tf 54 251 Td (- Provided network and system engineering services to clients such as Rockwell) Tj ET
+BT /F1 10 Tf 54 237 Td (Aerospace/NASA and large oil-and-gas clients.) Tj ET
+BT /F2 11 Tf 54 204 Td (SKILLS) Tj ET
+BT /F1 10 Tf 54 182 Td (- Security Automation and AI Workflows: Cognition, Windsurf, Devin CLI, GitHub Copilot) Tj ET
+BT /F1 10 Tf 54 168 Td (CLI, MCP integration, Python, GitHub Actions, CI/CD, AI-agent design and orchestration,) Tj ET
+BT /F1 10 Tf 54 154 Td (LLMs, AI cluster design and security) Tj ET
+BT /F1 10 Tf 54 139 Td (- Threat and Vulnerability Management: Vulnerability assessment and remediation, Attack) Tj ET
+BT /F1 10 Tf 54 125 Td (surface management, CVE management, Threat modeling, Incident response, SIEM, XDR/EDR) Tj ET
+BT /F1 10 Tf 54 110 Td (- Application and Supply-Chain Security: SAST, SCA, DAST, SBOM/SPDX, Dependency) Tj ET
+BT /F1 10 Tf 54 96 Td (scanning, Container scanning, OWASP) Tj ET
+BT /F1 10 Tf 54 81 Td (- Cloud, Infrastructure, and OT Security: AWS, Azure, GCP, Docker, Kubernetes,) Tj ET
 endstream
 endobj
 7 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R /Annots [9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
 endobj
 8 0 obj
-<< /Length 2616 >>
+<< /Length 2506 >>
 stream
-BT /F1 10 Tf 54 738 Td (- Cloud, Infrastructure, and OT Security: AWS, Azure, GCP, Docker, Kubernetes,) Tj ET
-BT /F1 10 Tf 54 724 Td (Infrastructure as code, Critical-facilities risk assessment, OT/SCADA security assessment) Tj ET
-BT /F2 11 Tf 54 691 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
-BT /F1 10 Tf 54 669 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
-BT /F1 10 Tf 54 654 Td (- Cloud Security Alliance - DFW Chapter | Founder | 2011-2015) Tj ET
-BT /F1 10 Tf 54 639 Td (https://cloudsecurityalliance.org/chapters/global) Tj ET
-BT /F1 10 Tf 54 624 Td (- First Class Limited Stationary Engineer - Critical infrastructure operation and) Tj ET
-BT /F1 10 Tf 54 610 Td (maintenance training) Tj ET
-BT /F2 11 Tf 54 577 Td (PROJECT EVIDENCE) Tj ET
-BT /F1 10 Tf 54 555 Td (- Security Engineering Automation: Recent) Tj ET
-0.5 w 64.4 554 m 225.60000000000002 554 l S
-BT /F1 10 Tf 54 541 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
-BT /F1 10 Tf 54 527 Td (security review, and security automation.) Tj ET
-BT /F1 10 Tf 54 512 Td (- Cloud and DevSecOps Engineering: Recent) Tj ET
-0.5 w 64.4 511 m 225.60000000000002 511 l S
-BT /F1 10 Tf 54 498 Td (implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and) Tj ET
-BT /F1 10 Tf 54 484 Td (security-scanning practices.) Tj ET
-BT /F1 10 Tf 54 469 Td (- AI-Agent and LLM Workflows: Recent work designing and) Tj ET
-0.5 w 64.4 468 m 199.60000000000002 468 l S
-BT /F1 10 Tf 54 455 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
-BT /F1 10 Tf 54 440 Td (- [Necessity: AI-Assisted Security) Tj ET
-BT /F1 10 Tf 54 426 Td (Assessment]\(../projects/necessity-ai-assisted-security-assessment.md\): Recent hands-on) Tj ET
-BT /F1 10 Tf 54 412 Td (development of a web- and Python CLI-based security-assessment application that orchestrates) Tj ET
-BT /F1 10 Tf 54 398 Td (security tools to assess systems and applications and produce remediation-oriented reports.) Tj ET
-BT /F1 10 Tf 54 383 Td (- brian-perry-resume: Ongoing maintenance of a public) Tj ET
-0.5 w 64.4 382 m 158 382 l S
-BT /F1 10 Tf 54 369 Td (resume and evidence portfolio using AI-assisted workflows, source-based technology) Tj ET
-BT /F1 10 Tf 54 355 Td (descriptions, generated indexes, and validation.) Tj ET
-BT /F2 11 Tf 54 322 Td (PORTFOLIO INDEXES) Tj ET
-BT /F1 10 Tf 54 300 Td (- Recent Projects) Tj ET
-0.5 w 64.4 299 m 142.4 299 l S
-BT /F1 10 Tf 54 285 Td (- Technologies, Tools, and Practices) Tj ET
-0.5 w 64.4 284 m 241.20000000000002 284 l S
+BT /F1 10 Tf 54 738 Td (Infrastructure as code, Critical-facilities risk assessment, OT/SCADA security assessment) Tj ET
+BT /F2 11 Tf 54 705 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
+BT /F1 10 Tf 54 683 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
+BT /F1 10 Tf 54 668 Td (- Cloud Security Alliance - DFW Chapter | Founder | 2011-2015) Tj ET
+BT /F1 10 Tf 54 653 Td (https://cloudsecurityalliance.org/chapters/global) Tj ET
+BT /F1 10 Tf 54 638 Td (- First Class Limited Stationary Engineer - Critical infrastructure operation and) Tj ET
+BT /F1 10 Tf 54 624 Td (maintenance training) Tj ET
+BT /F2 11 Tf 54 591 Td (PROJECT EVIDENCE) Tj ET
+BT /F1 10 Tf 54 569 Td (- Security Engineering Automation: Recent) Tj ET
+0.5 w 64.4 568 m 225.60000000000002 568 l S
+BT /F1 10 Tf 54 555 Td (hands-on engineering work spanning vulnerability-management workflows, threat modeling,) Tj ET
+BT /F1 10 Tf 54 541 Td (security review, and security automation.) Tj ET
+BT /F1 10 Tf 54 526 Td (- Cloud and DevSecOps Engineering: Recent) Tj ET
+0.5 w 64.4 525 m 225.60000000000002 525 l S
+BT /F1 10 Tf 54 512 Td (implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and) Tj ET
+BT /F1 10 Tf 54 498 Td (security-scanning practices.) Tj ET
+BT /F1 10 Tf 54 483 Td (- AI-Agent and LLM Workflows: Recent work designing and) Tj ET
+0.5 w 64.4 482 m 199.60000000000002 482 l S
+BT /F1 10 Tf 54 469 Td (implementing AI-agent, LLM, prompt-engineering, and agentic-workflow artifacts.) Tj ET
+BT /F1 10 Tf 54 454 Td (- [Necessity: AI-Assisted Security) Tj ET
+BT /F1 10 Tf 54 440 Td (Assessment]\(../projects/necessity-ai-assisted-security-assessment.md\): Recent hands-on) Tj ET
+BT /F1 10 Tf 54 426 Td (development of a web- and Python CLI-based security-assessment application that orchestrates) Tj ET
+BT /F1 10 Tf 54 412 Td (security tools to assess systems and applications and produce remediation-oriented reports.) Tj ET
+BT /F1 10 Tf 54 397 Td (- brian-perry-resume: Ongoing maintenance of a public) Tj ET
+0.5 w 64.4 396 m 158 396 l S
+BT /F1 10 Tf 54 383 Td (resume and evidence portfolio using AI-assisted workflows, source-based technology) Tj ET
+BT /F1 10 Tf 54 369 Td (descriptions, generated indexes, and validation.) Tj ET
+BT /F2 11 Tf 54 336 Td (PORTFOLIO INDEXES) Tj ET
+BT /F1 10 Tf 54 314 Td (- Recent Projects) Tj ET
+0.5 w 64.4 313 m 142.4 313 l S
+BT /F1 10 Tf 54 299 Td (- Technologies, Tools, and Practices) Tj ET
+0.5 w 64.4 298 m 241.20000000000002 298 l S
 endstream
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 553 225.60000000000002 565] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/security-engineering-automation.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 567 225.60000000000002 579] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/security-engineering-automation.md) >> >>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 510 225.60000000000002 522] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/cloud-devsecops-engineering.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 524 225.60000000000002 536] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/cloud-devsecops-engineering.md) >> >>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 467 199.60000000000002 479] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 481 199.60000000000002 493] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/ai-agent-workflows.md) >> >>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 381 158 393] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/brian-perry-resume.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 395 158 407] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/brian-perry-resume.md) >> >>
 endobj
 13 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 298 142.4 310] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/index.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 312 142.4 324] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/projects/index.md) >> >>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [64.4 283 241.20000000000002 295] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
+<< /Type /Annot /Subtype /Link /Rect [64.4 297 241.20000000000002 309] /Border [0 0 0] /A << /S /URI /URI (https://github.com/bp3rry/brian-perry-resume/blob/master/tech-tools/index.md) >> >>
 endobj
 xref
 0 15
@@ -127,16 +126,16 @@ xref
 0000000191 00000 n
 0000000266 00000 n
 0000000402 00000 n
-0000004311 00000 n
-0000004498 00000 n
-0000007166 00000 n
-0000007396 00000 n
-0000007623 00000 n
-0000007841 00000 n
-0000008044 00000 n
-0000008236 00000 n
+0000004367 00000 n
+0000004554 00000 n
+0000007112 00000 n
+0000007342 00000 n
+0000007569 00000 n
+0000007787 00000 n
+0000007990 00000 n
+0000008182 00000 n
 trailer
 << /Size 15 /Root 1 0 R >>
 startxref
-8443
+8389
 %%EOF

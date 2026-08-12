@@ -23,6 +23,11 @@ function workFor(names) {
   return resume.work.filter((work) => names.includes(work.name));
 }
 
+function employmentDates(work) {
+  const dates = [work.startDate, work.endDate].filter(Boolean).join("-");
+  return dates ? ` | ${dates}` : "";
+}
+
 function projectLine(project) {
   return `- [${project.title}](../${project.card}): ${project.summary}`;
 }
@@ -92,7 +97,7 @@ function renderFull() {
     "",
     "## EXPERIENCE",
     ...resume.work.flatMap((work) => [
-      `**${work.name}** | ${work.position} | ${work.startDate ?? ""}-${work.endDate ?? "Present"}`,
+      `**${work.name}** | ${work.position}${employmentDates(work)}`,
       ...work.highlights.map((highlight) => `- ${highlight}`),
       ""
     ]),
