@@ -9,9 +9,6 @@ Senior security architect and AI security advisor with security consulting, mana
 - Contributed to product design, architecture, security features, and lifecycle support.
 - Provided pre-sales and technical sales support for Vblock systems and solutions.
 
-**Cloud Security Alliance - DFW Chapter** | Founder | 2011-06-2015-12
-- Founded the chapter under the CSA charter and led cloud-security research and discussion.
-- Hosted chapter cloud infrastructure and managed finances, meetings, communications, and fundraising.
 
 **Anthelio Healthcare Solutions (formerly PHNS)** | Senior Director of Information Security, Global Information Security Officer, Practice Manager - Managed Security Services | 2002-10-2011-07
 - Managed Managed Security Services with P&L responsibility of $2.5M.
@@ -39,6 +36,9 @@ Senior security architect and AI security advisor with security consulting, mana
 
 ## PROFESSIONAL QUALIFICATIONS
 - Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance
+- **Cloud Security Alliance - DFW Chapter** | Founder | 2011-2015
+  https://cloudsecurityalliance.org/chapters/global
+
 - First Class Limited Stationary Engineer - Critical infrastructure operation and maintenance training
 
 ## PROJECT EVIDENCE

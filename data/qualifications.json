@@ -5,6 +5,13 @@
     "type": "certificate"
   },
   {
+    "name": "**Cloud Security Alliance - DFW Chapter** | Founder | 2011-2015",
+    "issuer": "",
+    "url": "https://cloudsecurityalliance.org/chapters/global",
+    "fullOnly": true,
+    "type": "professional-qualification"
+  },
+  {
     "name": "First Class Limited Stationary Engineer - Critical infrastructure operation and maintenance training",
     "issuer": "",
     "type": "professional-qualification"

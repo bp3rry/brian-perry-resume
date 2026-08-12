@@ -40,9 +40,10 @@ function portfolioIndexes() {
 }
 
 function qualificationLine(qualification) {
-  return qualification.issuer
+  const title = qualification.issuer
     ? `${qualification.name} — ${qualification.issuer}`
     : qualification.name;
+  return qualification.url ? `${title}\n  ${qualification.url}` : title;
 }
 
 function renderMinimal() {
@@ -70,7 +71,10 @@ function renderMinimal() {
     ...selectedProjects.map(projectLine),
     "",
     "## QUALIFICATIONS",
-    qualifications.map(qualificationLine).join(" | "),
+    qualifications
+      .filter((qualification) => !qualification.fullOnly)
+      .map(qualificationLine)
+      .join(" | "),
     "",
     ...portfolioIndexes(),
     "",
