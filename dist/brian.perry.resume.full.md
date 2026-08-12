@@ -32,10 +32,11 @@ Senior security architect and advisor with security architecture, consulting, ma
 - Provided network and system engineering services to clients such as Rockwell Aerospace/NASA and large oil-and-gas clients.
 
 ## SKILLS
-**Security Automation and AI Workflows:** Cognition, Windsurf, Devin CLI, GitHub Copilot CLI, MCP integration, Python, GitHub Actions, CI/CD, AI-agent design and orchestration, LLMs, AI cluster design and security
-**Threat and Vulnerability Management:** Vulnerability assessment and remediation, Attack surface management, CVE management, Threat modeling, Incident response, SIEM, XDR/EDR
-**Application and Supply-Chain Security:** SAST, SCA, DAST, SBOM/SPDX, Dependency scanning, Container scanning, OWASP
-**Cloud, Infrastructure, and OT Security:** AWS, Azure, GCP, Docker, Kubernetes, Infrastructure as code, Critical-facilities risk assessment, OT/SCADA security assessment
+- **Security Automation and AI Workflows:** Cognition, Windsurf, Devin CLI, GitHub Copilot CLI, MCP integration, Python, GitHub Actions, CI/CD, AI-agent design and orchestration, LLMs, AI cluster design and security
+- **Threat and Vulnerability Management:** Vulnerability assessment and remediation, Attack surface management, CVE management, Threat modeling, Incident response, SIEM, XDR/EDR
+- **Application and Supply-Chain Security:** SAST, SCA, DAST, SBOM/SPDX, Dependency scanning, Container scanning, OWASP
+- **Cloud, Infrastructure, and OT Security:** AWS, Azure, GCP, Docker, Kubernetes, Infrastructure as code, Critical-facilities risk assessment, OT/SCADA security assessment
+
 ## PROFESSIONAL QUALIFICATIONS
 - Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance
 - First Class Limited Stationary Engineer - Critical infrastructure operation and maintenance training

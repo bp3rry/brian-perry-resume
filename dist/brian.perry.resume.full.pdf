@@ -15,7 +15,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 3850 >>
+<< /Length 3852 >>
 stream
 BT /F2 18 Tf 54 738 Td (Brian Perry, AI and Cyber-Security Professional) Tj ET
 BT /F1 10 Tf 54 711 Td (HazzardUS@pm.me | +1 972 836 9981 | https://github.com/bp3rry/brian-perry-resume) Tj ET
@@ -54,7 +54,7 @@ BT /F2 10 Tf 54 193 Td (Southwestern Office Systems) Tj /F1 10 Tf ( | Field Serv
 BT /F1 10 Tf 54 178 Td (- Provided network and system engineering services to clients such as Rockwell) Tj ET
 BT /F1 10 Tf 54 164 Td (Aerospace/NASA and large oil-and-gas clients.) Tj ET
 BT /F2 11 Tf 54 131 Td (SKILLS) Tj ET
-BT /F1 10 Tf 54 109 Td (Security Automation and AI Workflows: Cognition, Windsurf, Devin CLI, GitHub Copilot) Tj ET
+BT /F1 10 Tf 54 109 Td (- Security Automation and AI Workflows: Cognition, Windsurf, Devin CLI, GitHub Copilot) Tj ET
 BT /F1 10 Tf 54 95 Td (CLI, MCP integration, Python, GitHub Actions, CI/CD, AI-agent design and orchestration,) Tj ET
 BT /F1 10 Tf 54 81 Td (LLMs, AI cluster design and security) Tj ET
 endstream
@@ -63,13 +63,13 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R /Annots [9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
 endobj
 8 0 obj
-<< /Length 2850 >>
+<< /Length 2856 >>
 stream
-BT /F1 10 Tf 54 738 Td (Threat and Vulnerability Management: Vulnerability assessment and remediation, Attack) Tj ET
+BT /F1 10 Tf 54 738 Td (- Threat and Vulnerability Management: Vulnerability assessment and remediation, Attack) Tj ET
 BT /F1 10 Tf 54 724 Td (surface management, CVE management, Threat modeling, Incident response, SIEM, XDR/EDR) Tj ET
-BT /F1 10 Tf 54 709 Td (Application and Supply-Chain Security: SAST, SCA, DAST, SBOM/SPDX, Dependency scanning,) Tj ET
-BT /F1 10 Tf 54 695 Td (Container scanning, OWASP) Tj ET
-BT /F1 10 Tf 54 680 Td (Cloud, Infrastructure, and OT Security: AWS, Azure, GCP, Docker, Kubernetes,) Tj ET
+BT /F1 10 Tf 54 709 Td (- Application and Supply-Chain Security: SAST, SCA, DAST, SBOM/SPDX, Dependency) Tj ET
+BT /F1 10 Tf 54 695 Td (scanning, Container scanning, OWASP) Tj ET
+BT /F1 10 Tf 54 680 Td (- Cloud, Infrastructure, and OT Security: AWS, Azure, GCP, Docker, Kubernetes,) Tj ET
 BT /F1 10 Tf 54 666 Td (Infrastructure as code, Critical-facilities risk assessment, OT/SCADA security assessment) Tj ET
 BT /F2 11 Tf 54 633 Td (PROFESSIONAL QUALIFICATIONS) Tj ET
 BT /F1 10 Tf 54 611 Td (- Certificate of Cloud Security Knowledge \(CCSK\) - Cloud Security Alliance) Tj ET
@@ -129,16 +129,16 @@ xref
 0000000191 00000 n
 0000000266 00000 n
 0000000402 00000 n
-0000004304 00000 n
-0000004491 00000 n
-0000007393 00000 n
-0000007623 00000 n
-0000007850 00000 n
-0000008068 00000 n
-0000008271 00000 n
-0000008463 00000 n
+0000004306 00000 n
+0000004493 00000 n
+0000007401 00000 n
+0000007631 00000 n
+0000007858 00000 n
+0000008076 00000 n
+0000008279 00000 n
+0000008471 00000 n
 trailer
 << /Size 15 /Root 1 0 R >>
 startxref
-8670
+8678
 %%EOF

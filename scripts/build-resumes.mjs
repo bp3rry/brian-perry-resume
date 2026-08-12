@@ -94,7 +94,7 @@ function renderFull() {
     ]),
     "",
     "## SKILLS",
-    ...resume.skills.map((skill) => `**${skill.name}:** ${skill.keywords.join(", ")}`),
+    ...resume.skills.map((skill) => `- **${skill.name}:** ${skill.keywords.join(", ")}`),
     "",
     "## PROFESSIONAL QUALIFICATIONS",
     ...qualifications.map((qualification) => `- ${qualificationLine(qualification)}`),
