@@ -1,8 +1,8 @@
 # Recent Projects
 
-Recent public project evidence, maintained from `data/project-evidence.json`.
+Recent project work, maintained from `data/project-evidence.json`.
 
-- [Security Engineering Automation](security-engineering-automation.md) — Recent hands-on engineering work spanning vulnerability-management workflows, threat modeling, security review, and security automation.
+- [AI assisted Security Engineering Automation](security-engineering-automation.md) — Recent hands-on engineering work spanning vulnerability-management workflows, threat modeling, security review, and security automation.
   - Capabilities: SAST, SCA, DAST, SBOM, Dependency scanning, Container scanning, Vulnerability management, Threat modeling
 - [Cloud and DevSecOps Engineering](cloud-devsecops-engineering.md) — Recent implementation work across cloud platforms, containers, infrastructure as code, CI/CD, and security-scanning practices.
   - Capabilities: AWS, Azure, GCP, Docker, Kubernetes, Infrastructure as code, GitHub Actions, Jenkins
